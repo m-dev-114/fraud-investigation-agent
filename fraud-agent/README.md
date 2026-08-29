@@ -6,8 +6,8 @@ Regression baseline), and an AI-assisted investigation pipeline that gathers
 evidence, explains its reasoning, and hands a recommendation to a human
 analyst — never executing a payment decision itself.
 
-> **Live Demo URL:** `<Vercel URL>`
-> **GitHub URL:** `<GitHub URL>`
+> **Live Demo URL:** `https://fraud-investigation-agent-one.vercel.app/`
+> **GitHub URL:** `(https://github.com/m-dev-114/fraud-investigation-agen)>`
 
 ---
 
