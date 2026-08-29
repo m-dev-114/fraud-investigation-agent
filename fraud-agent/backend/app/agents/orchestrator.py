@@ -238,7 +238,7 @@ def build_graph():
     graph.add_node("network_agent", node_network_agent)
     graph.add_node("customer_agent", node_customer_agent)
     graph.add_node("risk_decision", node_risk_decision)
-    graph.add_node("summary", node_summary)
+    graph.add_node("summarize_investigation", node_summary)
 
     graph.set_entry_point("ml_score")
     graph.add_edge("ml_score", "transaction_agent")
@@ -248,8 +248,8 @@ def build_graph():
     graph.add_edge("merchant_agent", "network_agent")
     graph.add_edge("network_agent", "customer_agent")
     graph.add_edge("customer_agent", "risk_decision")
-    graph.add_edge("risk_decision", "summary")
-    graph.add_edge("summary", END)
+    graph.add_edge("risk_decision", "summarize_investigation")
+    graph.add_edge("summarize_investigation", END)
     return graph.compile()
 
 
