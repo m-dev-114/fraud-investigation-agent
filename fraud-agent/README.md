@@ -130,7 +130,7 @@ Implemented with **LangGraph** in `backend/app/agents/orchestrator.py` as a
 linear, reliable pipeline (deliberately not a complex multi-agent graph —
 reliability over cleverness):
 
-`ml_score → transaction_agent → velocity_agent → device_agent → merchant_agent → network_agent → customer_agent → risk_decision → summary`
+`ml_score → transaction_agent → velocity_agent → device_agent → merchant_agent → network_agent → customer_agent → risk_decision → summarize_investigation`
 
 Each node logs `tool_call`/`tool_result` events (visible in the
 Investigation timeline and the Audit trail) and returns weighted evidence.
