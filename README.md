@@ -1,4 +1,4 @@
-# fraud-investigation-agent
+# AI-powered Fraud-investigation-agent
 An AI-powered fraud investigation console that mirrors how a real fraud
 analyst works. Every flagged transaction gets an ML risk score (XGBoost,
 99% precision / 97.8% recall), then a LangGraph-orchestrated pipeline of
