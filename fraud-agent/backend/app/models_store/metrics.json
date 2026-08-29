@@ -1,7 +1,7 @@
 {
   "logistic_regression": {
     "model_name": "logistic_regression",
-    "trained_at": "2026-08-28T18:17:21.256167",
+    "trained_at": "2026-08-29T15:33:57.884684",
     "n_train": 80000,
     "n_test": 20000,
     "precision": 0.9599056603773585,
@@ -18,142 +18,142 @@
     "feature_importance": [
       {
         "feature": "amount",
-        "importance": 10.999225373768688
+        "importance": 10.99922537374893
       },
       {
         "feature": "distance_from_home_km",
-        "importance": 9.45807862689304
+        "importance": 9.458078626920807
       },
       {
         "feature": "velocity_txn_count_1h",
-        "importance": 4.17456212477346
+        "importance": 4.174562124767475
       },
       {
         "feature": "is_foreign_txn",
-        "importance": -2.544271598327648
+        "importance": -2.5442715983039634
       },
       {
         "feature": "velocity_amount_sum_1h",
-        "importance": 2.2670013610471056
+        "importance": 2.267001361088117
       },
       {
         "feature": "recent_failed_txn_count_1h",
-        "importance": 1.5802461847060136
+        "importance": 1.580246184697314
       },
       {
         "feature": "amount_log",
-        "importance": -0.953252226204306
+        "importance": -0.9532522261931831
       },
       {
         "feature": "channel_card",
-        "importance": 0.790546740168237
+        "importance": 0.7905467401611957
       },
       {
         "feature": "shared_device_customer_count",
-        "importance": 0.6659476728478146
+        "importance": 0.665947672840953
       },
       {
         "feature": "shared_ip_customer_count",
-        "importance": 0.6560734440007492
+        "importance": 0.6560734439971929
       },
       {
         "feature": "is_new_device",
-        "importance": 0.6353270515553914
+        "importance": 0.6353270515636922
       },
       {
         "feature": "channel_upi",
-        "importance": -0.48272649736114687
+        "importance": -0.4827264973454
       },
       {
         "feature": "customer_high_risk",
-        "importance": -0.3244560832152103
+        "importance": -0.32445608318018215
       },
       {
         "feature": "implied_speed_kmh",
-        "importance": -0.3034676944981304
+        "importance": -0.3034676945009633
       },
       {
         "feature": "merchant_risk_medium",
-        "importance": -0.2904007151592991
+        "importance": -0.2904007151587462
       }
     ]
   },
   "xgboost": {
     "model_name": "xgboost",
-    "trained_at": "2026-08-28T18:17:23.488336",
+    "trained_at": "2026-08-29T15:34:00.212093",
     "n_train": 80000,
     "n_test": 20000,
-    "precision": 0.990204081632653,
-    "recall": 0.978225806451613,
-    "f1": 0.9841784989858012,
-    "roc_auc": 0.9991025431597771,
-    "pr_auc": 0.9957181172183577,
+    "precision": 0.9886178861788618,
+    "recall": 0.9806451612903225,
+    "f1": 0.9846153846153847,
+    "roc_auc": 0.9993887990920971,
+    "pr_auc": 0.995756941440273,
     "confusion_matrix": {
-      "true_negative": 18748,
-      "false_positive": 12,
-      "false_negative": 27,
-      "true_positive": 1213
+      "true_negative": 18746,
+      "false_positive": 14,
+      "false_negative": 24,
+      "true_positive": 1216
     },
     "feature_importance": [
       {
-        "feature": "velocity_txn_count_1h",
-        "importance": 0.6562120914459229
+        "feature": "velocity_amount_sum_1h",
+        "importance": 0.29433923959732056
       },
       {
         "feature": "distance_from_home_km",
-        "importance": 0.14420831203460693
+        "importance": 0.29401513934135437
+      },
+      {
+        "feature": "velocity_txn_count_1h",
+        "importance": 0.19888454675674438
       },
       {
         "feature": "amount",
-        "importance": 0.05302104726433754
-      },
-      {
-        "feature": "amount_log",
-        "importance": 0.04936050623655319
+        "importance": 0.07693880051374435
       },
       {
         "feature": "minutes_since_prev_txn",
-        "importance": 0.019562125205993652
+        "importance": 0.03458935767412186
       },
       {
-        "feature": "velocity_amount_sum_1h",
-        "importance": 0.014746559783816338
-      },
-      {
-        "feature": "distance_from_prev_txn_km",
-        "importance": 0.011627630330622196
+        "feature": "amount_log",
+        "importance": 0.032642073929309845
       },
       {
         "feature": "channel_card",
-        "importance": 0.008436711505055428
+        "importance": 0.012750140391290188
       },
       {
         "feature": "shared_ip_customer_count",
-        "importance": 0.007556198630481958
-      },
-      {
-        "feature": "channel_netbanking",
-        "importance": 0.006875216495245695
+        "importance": 0.009008754044771194
       },
       {
         "feature": "shared_device_customer_count",
-        "importance": 0.00519709475338459
+        "importance": 0.007594325114041567
+      },
+      {
+        "feature": "distance_from_prev_txn_km",
+        "importance": 0.006951939780265093
       },
       {
         "feature": "is_new_device",
-        "importance": 0.0034619872458279133
+        "importance": 0.005894129630178213
+      },
+      {
+        "feature": "merchant_risk_high",
+        "importance": 0.002832470927387476
       },
       {
         "feature": "implied_speed_kmh",
-        "importance": 0.0031941740307956934
+        "importance": 0.002800291171297431
       },
       {
         "feature": "channel_upi",
-        "importance": 0.0023268454242497683
+        "importance": 0.002729112282395363
       },
       {
-        "feature": "amount_zscore_vs_customer",
-        "importance": 0.002272751647979021
+        "feature": "customer_kyc_verified",
+        "importance": 0.002556568942964077
       }
     ]
   }
