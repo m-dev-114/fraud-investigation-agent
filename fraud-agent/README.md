@@ -256,6 +256,14 @@ on Render — the API loads them at startup. If you want a fresh model, run
 6. Check the **Model** page for real precision/recall/ROC-AUC/PR-AUC and the
    confusion matrix.
 
+> **Note for reviewers:** Only a sample of transactions have been
+> pre-investigated (to keep setup fast) — the rest show "not scored" until
+> investigated, which is expected, not a bug. Use **Try Demo Investigation**
+> for guaranteed, pre-verified cases covering all 5 fraud patterns. Any
+> transaction can also be investigated live from the **Transactions** page —
+> click one and the full ML + AI pipeline runs in real time against the
+> actual backend (typically a few seconds).
+
 ## 13. Limitations
 
 - Synthetic data only — no real customer, card, or payment data is used or
