@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Backend
+# NOTE: data/synthetic/*.csv and app/models_store/*.joblib are intentionally
+# NOT ignored -- they ship with the repo so the deployed demo works without
+# requiring a data-gen/train step on the server. Regenerate with
+# scripts/generate_data.py + scripts/train_model.py if you want fresh data.
+backend/.env
+backend/local_dev.db
+backend/test.db
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# OS / editor
+.DS_Store
+*.log
+.vscode/
+.idea/

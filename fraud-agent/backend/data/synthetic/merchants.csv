@@ -1,0 +1,1001 @@
+id,name,category,mcc,country,risk_rating,avg_ticket_size,created_at
+merch_00000,"Soman, Sunder and Banik Groceries",Groceries,5411,IN,low,2317.54,2026-04-19 06:53:15.182437
+merch_00001,"Barad, Mahal and Taneja Crypto/Forex",Crypto/Forex,6051,IN,high,1341.13,2026-01-09 02:15:54.182437
+merch_00002,"Nagy, Rajagopal and Grewal Entertainment",Entertainment,7832,IN,low,1486.97,2023-02-25 23:16:10.182437
+merch_00003,Sha and Sons Restaurants,Restaurants,5812,IN,low,733.68,2026-05-22 23:38:16.182437
+merch_00004,Joshi Inc Travel,Travel,4722,IN,low,428.37,2025-12-27 15:04:43.182437
+merch_00005,"Badami, Bhatnagar and Srinivasan Crypto/Forex",Crypto/Forex,6051,IN,medium,627.07,2025-07-23 23:16:40.182437
+merch_00006,Gade LLC Fashion,Fashion,5651,IN,low,826.32,2026-04-07 10:54:43.182437
+merch_00007,Bahri Ltd Education,Education,8220,IN,low,886.97,2022-09-23 23:06:57.182437
+merch_00008,Sathe Group Travel,Travel,4722,IN,low,1173.66,2023-12-14 03:52:26.182437
+merch_00009,Kapadia LLC Insurance,Insurance,6300,IN,low,2617.07,2024-08-19 10:49:41.182437
+merch_00010,"Kalla, Vasa and Sabharwal Gambling/Gaming",Gambling/Gaming,7995,IN,high,2152.92,2023-05-07 18:05:13.182437
+merch_00011,Raju and Sons Insurance,Insurance,6300,IN,low,2032.32,2024-11-15 17:23:00.182437
+merch_00012,Iyer-Yogi Jewelry,Jewelry,5944,IN,medium,446.4,2023-01-13 21:00:05.182437
+merch_00013,Sekhon-Pandey Fashion,Fashion,5651,IN,low,1941.78,2023-01-19 16:50:21.182437
+merch_00014,Chawla Group Groceries,Groceries,5411,IN,low,2571.2,2023-03-23 14:57:05.182437
+merch_00015,Srinivasan LLC Education,Education,8220,IN,low,879.85,2024-12-05 16:57:26.182437
+merch_00016,Barad-Thakkar Entertainment,Entertainment,7832,IN,low,418.23,2026-04-12 20:58:24.182437
+merch_00017,"Raja, Ahuja and Subramaniam Gambling/Gaming",Gambling/Gaming,7995,IN,medium,1839.48,2023-03-30 03:26:34.182437
+merch_00018,Singh LLC Insurance,Insurance,6300,IN,low,2124.77,2024-09-20 12:39:26.182437
+merch_00019,"Chacko, Vaidya and Om Insurance",Insurance,6300,IN,low,1267.56,2025-08-16 19:45:42.182437
+merch_00020,Bhat-Kanda Groceries,Groceries,5411,IN,low,2374.32,2025-12-11 23:07:34.182437
+merch_00021,Pillai-Behl Insurance,Insurance,6300,IN,low,1338.36,2025-03-30 14:10:22.182437
+merch_00022,"Naik, Golla and Srivastava Restaurants",Restaurants,5812,IN,low,555.54,2024-07-07 06:43:05.182437
+merch_00023,Sen-Ranganathan Entertainment,Entertainment,7832,IN,low,1322.66,2026-04-09 20:13:34.182437
+merch_00024,Natt-Anand Jewelry,Jewelry,5944,IN,low,1445.8,2024-04-11 22:42:59.182437
+merch_00025,Sani LLC Fashion,Fashion,5651,IN,low,1250.39,2026-04-27 00:19:01.182437
+merch_00026,Narang-Walla Utilities,Utilities,4900,IN,low,334.24,2023-06-17 01:35:07.182437
+merch_00027,"Sarkar, Doctor and Sane Digital Goods",Digital Goods,5815,IN,low,3628.74,2025-01-06 12:52:52.182437
+merch_00028,Basak-Kibe Pharmacy,Pharmacy,5912,IN,low,5017.17,2022-12-31 13:20:48.182437
+merch_00029,"Dhingra, Dhingra and Ravi Electronics",Electronics,5732,IN,low,1058.07,2025-05-15 13:00:06.182437
+merch_00030,Saxena-Mohanty Entertainment,Entertainment,7832,IN,low,1146.98,2023-12-11 09:09:03.182437
+merch_00031,Khanna Inc Digital Goods,Digital Goods,5815,IN,medium,1333.06,2025-06-16 08:08:49.182437
+merch_00032,Minhas PLC Utilities,Utilities,4900,IN,low,1200.25,2023-03-07 10:59:45.182437
+merch_00033,"Bir, Buch and Bhandari Pharmacy",Pharmacy,5912,IN,low,568.0,2025-02-12 00:33:45.182437
+merch_00034,"Contractor, Dayal and Thaker Fashion",Fashion,5651,IN,low,2253.92,2023-05-19 18:55:38.182437
+merch_00035,Ganesh and Sons Restaurants,Restaurants,5812,IN,low,2330.19,2025-05-22 03:57:01.182437
+merch_00036,Lanka-Garde Travel,Travel,4722,IN,low,1177.12,2023-03-02 13:47:07.182437
+merch_00037,Vala-Vala Fuel,Fuel,5541,IN,low,1117.24,2023-11-13 21:00:07.182437
+merch_00038,"Oommen, Bains and Sarin Insurance",Insurance,6300,IN,low,1092.43,2022-11-12 03:32:04.182437
+merch_00039,Murthy and Sons Groceries,Groceries,5411,IN,low,2213.85,2025-09-05 16:27:45.182437
+merch_00040,Das LLC Restaurants,Restaurants,5812,IN,low,1310.32,2023-01-04 18:23:08.182437
+merch_00041,Mahajan Inc Insurance,Insurance,6300,IN,low,1048.11,2024-02-01 23:10:10.182437
+merch_00042,"Mohanty, Yogi and Subramanian Restaurants",Restaurants,5812,IN,low,427.79,2024-01-26 17:19:24.182437
+merch_00043,Uppal-Agate Electronics,Electronics,5732,IN,low,2463.55,2024-05-29 04:07:11.182437
+merch_00044,Chada LLC Digital Goods,Digital Goods,5815,IN,medium,686.16,2025-06-22 23:16:50.182437
+merch_00045,Atwal Group Travel,Travel,4722,IN,low,419.27,2024-04-24 07:55:18.182437
+merch_00046,Arora LLC Groceries,Groceries,5411,IN,low,1948.65,2024-05-22 06:24:35.182437
+merch_00047,Batra-Natt Jewelry,Jewelry,5944,IN,low,1298.14,2024-02-15 18:11:09.182437
+merch_00048,Kant-Upadhyay Fuel,Fuel,5541,IN,low,5192.39,2023-05-16 12:41:12.182437
+merch_00049,"Hayre, Rao and Dass Fuel",Fuel,5541,IN,low,364.91,2023-05-29 09:22:30.182437
+merch_00050,Pandya-Ravi Pharmacy,Pharmacy,5912,IN,low,794.35,2025-06-13 19:15:16.182437
+merch_00051,Lata-Rajagopal Entertainment,Entertainment,7832,IN,low,1945.3,2025-10-21 16:17:52.182437
+merch_00052,Merchant LLC Fashion,Fashion,5651,IN,low,1248.22,2026-06-17 15:24:13.182437
+merch_00053,Ratti Group Groceries,Groceries,5411,IN,low,1463.29,2022-09-01 21:25:54.182437
+merch_00054,Soni-Kothari Travel,Travel,4722,IN,low,1459.55,2025-05-09 02:04:14.182437
+merch_00055,Kapoor-Rege Fuel,Fuel,5541,IN,low,235.47,2023-11-12 09:05:31.182437
+merch_00056,Shukla-Thaker Entertainment,Entertainment,7832,IN,low,1532.81,2025-09-22 06:32:46.182437
+merch_00057,Master-Dhar Pharmacy,Pharmacy,5912,IN,low,2158.03,2022-12-08 17:47:37.182437
+merch_00058,"Parikh, Mall and Keer Insurance",Insurance,6300,IN,low,604.65,2025-09-01 22:59:31.182437
+merch_00059,Sachar-Khare Entertainment,Entertainment,7832,IN,low,638.07,2025-02-21 14:00:20.182437
+merch_00060,"Vaidya, Patel and Mahajan Jewelry",Jewelry,5944,IN,low,900.65,2025-04-08 22:13:57.182437
+merch_00061,Sarna-Chhabra Fashion,Fashion,5651,IN,low,407.26,2024-11-15 11:29:18.182437
+merch_00062,Dasgupta-Dubey Jewelry,Jewelry,5944,IN,medium,542.15,2024-03-09 06:33:48.182437
+merch_00063,Buch Inc Utilities,Utilities,4900,IN,low,1353.1,2024-04-27 06:24:40.182437
+merch_00064,Varty-Rai Digital Goods,Digital Goods,5815,IN,low,2971.16,2025-01-31 13:19:55.182437
+merch_00065,Sundaram-Krishnan Digital Goods,Digital Goods,5815,IN,low,818.22,2022-11-28 09:51:13.182437
+merch_00066,Raja-Dutta Electronics,Electronics,5732,IN,low,3845.47,2024-03-25 08:40:12.182437
+merch_00067,"Sama, Pandya and Mukherjee Groceries",Groceries,5411,IN,low,806.58,2025-03-04 14:37:22.182437
+merch_00068,Baria-Andra Gambling/Gaming,Gambling/Gaming,7995,IN,high,2298.92,2024-02-10 01:41:56.182437
+merch_00069,Mand-Lalla Utilities,Utilities,4900,IN,low,672.19,2024-07-31 00:19:09.182437
+merch_00070,Rattan-Sachar Fuel,Fuel,5541,IN,low,1695.64,2025-06-25 07:53:29.182437
+merch_00071,"Kata, Korpal and Kapadia Insurance",Insurance,6300,IN,low,3506.04,2024-05-15 01:48:31.182437
+merch_00072,"Tailor, Balan and Kunda Restaurants",Restaurants,5812,IN,low,1982.53,2024-03-19 17:33:39.182437
+merch_00073,Bhat LLC Fuel,Fuel,5541,IN,low,1150.33,2025-12-20 19:15:37.182437
+merch_00074,Randhawa-Khanna Jewelry,Jewelry,5944,IN,low,1092.73,2023-04-13 00:16:11.182437
+merch_00075,"Sura, Cheema and Aggarwal Education",Education,8220,IN,low,1712.84,2023-06-11 22:53:32.182437
+merch_00076,Char-Sachdeva Entertainment,Entertainment,7832,IN,low,2112.1,2025-05-17 02:15:39.182437
+merch_00077,Ganesan Group Crypto/Forex,Crypto/Forex,6051,IN,medium,2283.2,2023-04-29 04:40:19.182437
+merch_00078,"Choudhary, Bala and Bora Utilities",Utilities,4900,IN,low,1368.13,2024-05-18 16:11:21.182437
+merch_00079,Kashyap-Kota Travel,Travel,4722,IN,low,1665.27,2025-11-23 00:49:16.182437
+merch_00080,"Sur, Narula and Bhattacharyya Gambling/Gaming",Gambling/Gaming,7995,IN,medium,647.03,2024-03-21 19:26:44.182437
+merch_00081,"Parikh, Pradhan and D’Alia Electronics",Electronics,5732,IN,low,1829.92,2023-10-06 02:06:54.182437
+merch_00082,"Pillay, Dugal and Badal Utilities",Utilities,4900,IN,low,681.99,2026-05-18 10:00:54.182437
+merch_00083,Wason LLC Electronics,Electronics,5732,IN,low,1475.67,2024-09-07 20:08:05.182437
+merch_00084,Sastry-Menon Electronics,Electronics,5732,IN,low,979.46,2025-06-25 05:14:14.182437
+merch_00085,"Dalal, Upadhyay and Subramanian Electronics",Electronics,5732,IN,low,3265.0,2023-01-05 16:49:39.182437
+merch_00086,Sem Ltd Fashion,Fashion,5651,IN,low,1358.32,2026-04-25 04:53:14.182437
+merch_00087,Bajaj-Narayan Gambling/Gaming,Gambling/Gaming,7995,IN,high,3499.88,2023-02-18 13:15:43.182437
+merch_00088,Pau-Iyengar Education,Education,8220,IN,low,1259.79,2023-08-10 08:59:18.182437
+merch_00089,Parmer and Sons Electronics,Electronics,5732,IN,low,3905.13,2026-02-21 02:51:00.182437
+merch_00090,"Behl, De and Balan Utilities",Utilities,4900,IN,low,1891.1,2024-10-28 20:14:26.182437
+merch_00091,Srivastava Group Gambling/Gaming,Gambling/Gaming,7995,IN,high,251.53,2024-06-13 17:29:37.182437
+merch_00092,Trivedi Group Education,Education,8220,IN,low,996.21,2023-06-05 10:21:00.182437
+merch_00093,"Srivastava, Bandi and Modi Fashion",Fashion,5651,IN,low,738.28,2022-10-31 17:08:18.182437
+merch_00094,Balan PLC Pharmacy,Pharmacy,5912,IN,low,437.64,2025-08-21 20:18:29.182437
+merch_00095,"Dewan, Bera and Basak Jewelry",Jewelry,5944,IN,low,704.08,2026-02-04 23:39:58.182437
+merch_00096,Mani-Pathak Groceries,Groceries,5411,IN,low,840.61,2026-05-23 01:16:05.182437
+merch_00097,Sehgal LLC Electronics,Electronics,5732,IN,low,276.08,2022-09-04 02:08:29.182437
+merch_00098,Bail-Palla Gambling/Gaming,Gambling/Gaming,7995,IN,high,1135.17,2024-05-30 13:07:50.182437
+merch_00099,Nagar-Baria Utilities,Utilities,4900,IN,low,1829.13,2024-12-17 22:39:30.182437
+merch_00100,Sridhar PLC Digital Goods,Digital Goods,5815,IN,low,5278.72,2023-10-26 05:01:47.182437
+merch_00101,Dey-Sood Pharmacy,Pharmacy,5912,IN,low,3054.82,2025-11-21 21:46:39.182437
+merch_00102,Trivedi Inc Groceries,Groceries,5411,IN,low,1102.32,2024-09-22 12:28:34.182437
+merch_00103,Chokshi LLC Travel,Travel,4722,IN,low,1331.6,2024-12-09 20:54:35.182437
+merch_00104,Som-Goel Travel,Travel,4722,IN,low,1953.59,2022-09-10 17:36:37.182437
+merch_00105,"Bali, Rai and Arya Entertainment",Entertainment,7832,IN,low,1167.57,2024-05-24 00:18:40.182437
+merch_00106,Bandi-Muni Travel,Travel,4722,IN,low,1379.32,2023-06-24 07:00:45.182437
+merch_00107,Kapadia-Hayer Jewelry,Jewelry,5944,IN,medium,703.71,2023-03-06 20:05:51.182437
+merch_00108,Khatri-Zachariah Fuel,Fuel,5541,IN,low,1292.31,2026-05-12 12:58:11.182437
+merch_00109,Bahri-Buch Pharmacy,Pharmacy,5912,IN,low,1427.28,2025-06-19 09:57:07.182437
+merch_00110,Nazareth-Kulkarni Travel,Travel,4722,IN,low,450.29,2023-04-04 06:05:11.182437
+merch_00111,"Dhaliwal, Ramanathan and Roy Restaurants",Restaurants,5812,IN,low,1917.48,2023-04-08 15:09:30.182437
+merch_00112,"Verma, Atwal and Salvi Jewelry",Jewelry,5944,IN,low,1984.54,2023-05-28 14:19:07.182437
+merch_00113,Char Ltd Jewelry,Jewelry,5944,IN,low,2041.69,2022-09-19 05:17:47.182437
+merch_00114,Mody PLC Jewelry,Jewelry,5944,IN,low,715.93,2024-01-19 08:04:40.182437
+merch_00115,Balan-Gera Education,Education,8220,IN,low,3503.37,2023-04-28 09:22:22.182437
+merch_00116,Pillai LLC Jewelry,Jewelry,5944,IN,low,1002.21,2025-03-28 03:24:15.182437
+merch_00117,"Sachdev, Pai and Bhalla Digital Goods",Digital Goods,5815,IN,low,489.7,2022-10-18 09:25:18.182437
+merch_00118,"Nori, Munshi and Chander Electronics",Electronics,5732,IN,low,3345.04,2023-10-27 17:25:31.182437
+merch_00119,Srinivasan-Warrior Groceries,Groceries,5411,IN,low,581.52,2022-10-29 08:47:04.182437
+merch_00120,"Pillay, Goswami and Varty Crypto/Forex",Crypto/Forex,6051,IN,high,1633.04,2023-10-20 01:08:19.182437
+merch_00121,Salvi PLC Entertainment,Entertainment,7832,IN,low,812.06,2025-03-27 02:56:29.182437
+merch_00122,Nadkarni-Vora Pharmacy,Pharmacy,5912,IN,low,323.29,2023-02-25 16:24:20.182437
+merch_00123,Singhal PLC Restaurants,Restaurants,5812,IN,low,565.84,2024-03-31 05:39:14.182437
+merch_00124,"Kothari, Dhaliwal and Master Insurance",Insurance,6300,IN,low,3090.9,2025-12-26 04:11:52.182437
+merch_00125,Vala and Sons Groceries,Groceries,5411,IN,low,1340.59,2025-08-28 05:04:08.182437
+merch_00126,Kuruvilla Inc Groceries,Groceries,5411,IN,low,877.24,2023-09-16 08:02:01.182437
+merch_00127,Mital-Rege Fuel,Fuel,5541,IN,low,1057.41,2025-06-30 22:19:33.182437
+merch_00128,"Shan, Talwar and Venkatesh Electronics",Electronics,5732,IN,low,502.56,2026-03-04 23:21:01.182437
+merch_00129,Sinha PLC Education,Education,8220,IN,low,657.0,2025-12-14 14:22:04.182437
+merch_00130,Krish Ltd Fuel,Fuel,5541,IN,low,2292.14,2023-06-27 12:02:11.182437
+merch_00131,Solanki-Sen Fuel,Fuel,5541,IN,low,1534.06,2025-12-23 02:07:51.182437
+merch_00132,"Raghavan, Shankar and Parmar Entertainment",Entertainment,7832,IN,low,1286.83,2023-04-12 23:18:49.182437
+merch_00133,Iyer PLC Travel,Travel,4722,IN,low,1128.8,2025-12-01 22:08:46.182437
+merch_00134,Bansal LLC Gambling/Gaming,Gambling/Gaming,7995,IN,high,279.69,2023-03-21 15:40:35.182437
+merch_00135,Sarraf Ltd Insurance,Insurance,6300,IN,low,1202.02,2026-03-04 08:24:49.182437
+merch_00136,Rattan Ltd Electronics,Electronics,5732,IN,low,2293.71,2026-01-10 09:12:31.182437
+merch_00137,"Kashyap, Tank and Shere Insurance",Insurance,6300,IN,low,796.77,2024-07-08 02:52:56.182437
+merch_00138,Tara-Bajaj Fashion,Fashion,5651,IN,low,1216.34,2023-02-28 12:56:13.182437
+merch_00139,"Chandran, Seshadri and Chana Gambling/Gaming",Gambling/Gaming,7995,IN,high,125.45,2025-06-27 15:41:43.182437
+merch_00140,Kapoor-Johal Fuel,Fuel,5541,IN,low,2908.77,2024-09-27 23:28:21.182437
+merch_00141,"Sarna, Mahal and Ganesan Jewelry",Jewelry,5944,IN,medium,3533.31,2025-03-16 22:56:29.182437
+merch_00142,"Korpal, Kala and Kota Pharmacy",Pharmacy,5912,IN,low,3519.01,2024-08-20 02:53:24.182437
+merch_00143,"Brahmbhatt, Sankar and Sandhu Jewelry",Jewelry,5944,IN,low,308.79,2023-03-16 00:28:49.182437
+merch_00144,"Bansal, Venkatesh and Raj Insurance",Insurance,6300,IN,low,2426.37,2024-12-16 07:39:42.182437
+merch_00145,Keer Ltd Electronics,Electronics,5732,IN,low,2520.91,2026-04-13 11:59:43.182437
+merch_00146,Amble-Sachdev Groceries,Groceries,5411,IN,low,1272.08,2022-10-05 14:57:08.182437
+merch_00147,"Shan, Lal and Karnik Insurance",Insurance,6300,IN,low,974.02,2023-12-08 22:51:31.182437
+merch_00148,"Mishra, Parsa and Devi Groceries",Groceries,5411,IN,low,2414.53,2025-04-22 02:18:47.182437
+merch_00149,Mody-Parmar Fashion,Fashion,5651,IN,low,1397.78,2026-05-07 03:58:57.182437
+merch_00150,Raghavan PLC Crypto/Forex,Crypto/Forex,6051,IN,high,653.9,2023-09-10 14:27:52.182437
+merch_00151,"Balasubramanian, Tak and Nayak Fashion",Fashion,5651,IN,low,2079.84,2022-12-27 16:31:13.182437
+merch_00152,"Krishnan, Kashyap and Munshi Digital Goods",Digital Goods,5815,IN,low,2844.84,2025-11-20 21:50:31.182437
+merch_00153,"Mani, Choudhry and Dhar Travel",Travel,4722,IN,low,2293.27,2026-01-02 18:26:11.182437
+merch_00154,Ganesan-Deep Pharmacy,Pharmacy,5912,IN,low,2392.22,2024-10-30 20:30:21.182437
+merch_00155,"Dhaliwal, Halder and Nayak Pharmacy",Pharmacy,5912,IN,low,496.96,2023-01-25 06:43:55.182437
+merch_00156,"Din, Bhasin and Ravi Insurance",Insurance,6300,IN,low,859.48,2025-06-13 11:44:24.182437
+merch_00157,Khatri PLC Fashion,Fashion,5651,IN,low,1553.74,2023-11-20 00:21:19.182437
+merch_00158,Kapoor PLC Entertainment,Entertainment,7832,IN,low,3289.11,2025-01-08 23:07:59.182437
+merch_00159,Pillay and Sons Utilities,Utilities,4900,IN,low,673.29,2026-01-23 07:28:02.182437
+merch_00160,"Chaudry, Kakar and Hans Entertainment",Entertainment,7832,IN,low,3176.4,2023-11-19 21:35:24.182437
+merch_00161,Garde-Prasad Crypto/Forex,Crypto/Forex,6051,IN,high,233.77,2023-03-17 23:43:14.182437
+merch_00162,Misra-Murthy Jewelry,Jewelry,5944,IN,low,2913.89,2023-01-08 19:22:06.182437
+merch_00163,"Bhatt, Tak and Kannan Gambling/Gaming",Gambling/Gaming,7995,IN,high,2739.7,2025-01-08 15:30:12.182437
+merch_00164,Raghavan Inc Insurance,Insurance,6300,IN,low,4461.93,2025-04-03 17:45:41.182437
+merch_00165,Mistry-Aurora Restaurants,Restaurants,5812,IN,low,2508.59,2022-10-03 19:49:23.182437
+merch_00166,Ray-Devan Utilities,Utilities,4900,IN,low,1655.17,2023-08-09 15:29:34.182437
+merch_00167,Balan Inc Pharmacy,Pharmacy,5912,IN,low,983.83,2024-02-15 16:39:11.182437
+merch_00168,"Chaudhary, Ghose and Padmanabhan Entertainment",Entertainment,7832,IN,low,892.18,2025-01-14 12:25:37.182437
+merch_00169,Baral Group Gambling/Gaming,Gambling/Gaming,7995,IN,high,1240.64,2022-10-07 11:59:03.182437
+merch_00170,"Natt, Khare and Dewan Gambling/Gaming",Gambling/Gaming,7995,IN,high,930.32,2024-08-20 13:59:46.182437
+merch_00171,Ganguly Ltd Jewelry,Jewelry,5944,IN,low,2079.39,2023-02-25 00:59:43.182437
+merch_00172,Rege and Sons Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2466.93,2023-08-09 11:58:24.182437
+merch_00173,Wali-Doctor Education,Education,8220,IN,low,631.74,2025-06-21 01:11:17.182437
+merch_00174,Chakraborty Ltd Digital Goods,Digital Goods,5815,IN,medium,2553.78,2025-09-19 06:14:31.182437
+merch_00175,Nigam-Zachariah Entertainment,Entertainment,7832,IN,low,1738.88,2023-09-23 00:35:04.182437
+merch_00176,Hari PLC Insurance,Insurance,6300,IN,low,1040.12,2023-09-05 21:20:53.182437
+merch_00177,Setty-Sem Education,Education,8220,IN,low,2870.37,2025-09-22 00:18:26.182437
+merch_00178,Shere Inc Utilities,Utilities,4900,IN,low,715.51,2025-03-13 00:28:49.182437
+merch_00179,Srinivasan-Chaudhary Digital Goods,Digital Goods,5815,IN,low,430.46,2026-02-14 18:20:32.182437
+merch_00180,Naik-Prakash Fuel,Fuel,5541,IN,low,686.26,2025-01-04 02:47:22.182437
+merch_00181,Agrawal-Nigam Fuel,Fuel,5541,IN,low,859.91,2024-02-15 21:24:56.182437
+merch_00182,Raju and Sons Insurance,Insurance,6300,IN,low,2793.57,2024-10-03 14:07:34.182437
+merch_00183,"Behl, Joshi and Patla Pharmacy",Pharmacy,5912,IN,low,2702.06,2024-03-29 18:27:04.182437
+merch_00184,Bhattacharyya Ltd Digital Goods,Digital Goods,5815,IN,low,1348.96,2025-08-17 20:49:44.182437
+merch_00185,Khosla Ltd Pharmacy,Pharmacy,5912,IN,low,193.98,2022-10-01 03:48:38.182437
+merch_00186,"Chowdhury, Parmar and Setty Jewelry",Jewelry,5944,IN,medium,749.38,2023-06-15 14:10:24.182437
+merch_00187,"Saini, Sachdev and Kothari Digital Goods",Digital Goods,5815,IN,medium,4176.21,2022-08-30 18:57:16.182437
+merch_00188,"Dani, Solanki and Ganesan Education",Education,8220,IN,low,2360.59,2024-06-10 19:29:50.182437
+merch_00189,Chhabra-Acharya Digital Goods,Digital Goods,5815,IN,medium,178.39,2025-01-25 16:36:49.182437
+merch_00190,Sarkar LLC Gambling/Gaming,Gambling/Gaming,7995,IN,medium,99.99,2023-12-05 17:53:02.182437
+merch_00191,"Srinivas, Khurana and Kale Fuel",Fuel,5541,IN,low,2290.11,2026-06-18 07:52:47.182437
+merch_00192,Luthra PLC Travel,Travel,4722,IN,low,3225.8,2024-11-14 06:36:45.182437
+merch_00193,Banik LLC Digital Goods,Digital Goods,5815,IN,medium,540.26,2024-06-26 10:08:58.182437
+merch_00194,Singh Ltd Electronics,Electronics,5732,IN,low,722.17,2024-04-06 19:36:04.182437
+merch_00195,Manda Group Groceries,Groceries,5411,IN,low,2638.79,2025-10-03 11:52:08.182437
+merch_00196,Ravel PLC Electronics,Electronics,5732,IN,low,1042.28,2024-04-24 06:50:58.182437
+merch_00197,Kapur Group Fuel,Fuel,5541,IN,low,1155.78,2024-06-12 19:05:54.182437
+merch_00198,Saraf and Sons Entertainment,Entertainment,7832,IN,low,1112.97,2023-09-07 12:11:41.182437
+merch_00199,Gour and Sons Restaurants,Restaurants,5812,IN,low,1454.71,2024-08-01 10:58:11.182437
+merch_00200,Date LLC Pharmacy,Pharmacy,5912,IN,low,1684.44,2023-10-28 10:09:39.182437
+merch_00201,Chowdhury-Kohli Fuel,Fuel,5541,IN,low,4410.88,2024-07-19 13:42:44.182437
+merch_00202,"Sachdeva, Pandey and Bhakta Insurance",Insurance,6300,IN,low,977.07,2022-11-04 22:01:36.182437
+merch_00203,"Hans, Sarin and Raj Groceries",Groceries,5411,IN,low,1152.03,2024-05-10 16:46:28.182437
+merch_00204,"Tella, Dasgupta and Brar Fuel",Fuel,5541,IN,low,493.85,2023-04-10 07:17:20.182437
+merch_00205,Cherian-Shukla Entertainment,Entertainment,7832,IN,low,1443.19,2024-06-03 11:14:54.182437
+merch_00206,"Merchant, Tandon and Krish Groceries",Groceries,5411,IN,low,2776.44,2023-08-10 16:00:47.182437
+merch_00207,Krishnan-Sachdev Utilities,Utilities,4900,IN,low,715.2,2025-06-26 01:34:04.182437
+merch_00208,Bali-Tata Jewelry,Jewelry,5944,IN,low,628.13,2025-02-27 19:00:08.182437
+merch_00209,Manne Ltd Insurance,Insurance,6300,IN,low,2609.4,2025-01-03 00:13:27.182437
+merch_00210,Aurora Group Electronics,Electronics,5732,IN,low,1677.83,2023-04-04 06:19:33.182437
+merch_00211,Sethi LLC Fuel,Fuel,5541,IN,low,632.9,2023-08-06 10:39:07.182437
+merch_00212,Deshmukh Ltd Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1500.67,2023-11-08 06:33:38.182437
+merch_00213,Mangal-Bansal Restaurants,Restaurants,5812,IN,low,582.07,2024-09-11 17:19:47.182437
+merch_00214,Bahri PLC Crypto/Forex,Crypto/Forex,6051,IN,medium,1012.45,2025-04-09 05:38:50.182437
+merch_00215,"Arya, Padmanabhan and Som Travel",Travel,4722,IN,low,1088.94,2025-05-20 04:41:05.182437
+merch_00216,"Bali, Jaggi and Singh Digital Goods",Digital Goods,5815,IN,medium,2582.87,2023-12-02 05:00:56.182437
+merch_00217,Bail-Rau Fashion,Fashion,5651,IN,low,1992.18,2023-12-10 19:18:04.182437
+merch_00218,Char-Manne Entertainment,Entertainment,7832,IN,low,2690.07,2025-12-13 22:17:12.182437
+merch_00219,Dhaliwal PLC Education,Education,8220,IN,low,998.27,2024-10-12 18:28:51.182437
+merch_00220,Mohan PLC Education,Education,8220,IN,low,1858.66,2023-06-05 22:11:03.182437
+merch_00221,"Thaman, Kohli and Choudhry Fuel",Fuel,5541,IN,low,267.17,2026-01-27 17:20:49.182437
+merch_00222,"Dhillon, Saraf and Saini Insurance",Insurance,6300,IN,low,612.2,2026-02-10 12:35:35.182437
+merch_00223,"Sagar, Lata and Johal Electronics",Electronics,5732,IN,low,423.44,2024-12-02 10:08:38.182437
+merch_00224,Oommen-Chanda Fashion,Fashion,5651,IN,low,2322.07,2025-07-13 19:42:29.182437
+merch_00225,"Mody, Sangha and Sibal Travel",Travel,4722,IN,low,3914.76,2023-09-07 04:34:20.182437
+merch_00226,Thaman-Bumb Crypto/Forex,Crypto/Forex,6051,IN,medium,1128.27,2023-09-22 22:45:59.182437
+merch_00227,Pal and Sons Travel,Travel,4722,IN,low,1961.08,2023-07-26 00:14:47.182437
+merch_00228,Padmanabhan-Sule Fashion,Fashion,5651,IN,low,1926.54,2024-11-02 13:34:15.182437
+merch_00229,Shukla-Kohli Electronics,Electronics,5732,IN,low,3667.99,2025-12-02 22:20:19.182437
+merch_00230,Rai Inc Electronics,Electronics,5732,IN,low,1011.45,2023-10-29 06:13:41.182437
+merch_00231,"Pandey, Shan and Badal Groceries",Groceries,5411,IN,low,1412.7,2024-08-04 14:21:32.182437
+merch_00232,"Buch, Kurian and Pal Crypto/Forex",Crypto/Forex,6051,IN,medium,631.07,2023-02-17 14:07:19.182437
+merch_00233,Dar-Toor Crypto/Forex,Crypto/Forex,6051,IN,medium,461.09,2023-09-16 20:10:51.182437
+merch_00234,"Gour, Ghose and Bhakta Education",Education,8220,IN,low,2142.82,2024-05-09 12:42:13.182437
+merch_00235,Kalita PLC Digital Goods,Digital Goods,5815,IN,low,747.34,2024-12-07 04:43:46.182437
+merch_00236,Rao-Brahmbhatt Fuel,Fuel,5541,IN,low,782.23,2024-01-01 14:25:34.182437
+merch_00237,Nayak Group Entertainment,Entertainment,7832,IN,low,1822.74,2023-11-10 12:05:19.182437
+merch_00238,Pathak-Oza Education,Education,8220,IN,low,1075.12,2025-02-23 11:06:08.182437
+merch_00239,Kara LLC Insurance,Insurance,6300,IN,low,2175.0,2022-10-13 11:46:31.182437
+merch_00240,Doshi and Sons Utilities,Utilities,4900,IN,low,2204.77,2023-05-27 05:48:21.182437
+merch_00241,Vyas-Atwal Education,Education,8220,IN,low,1511.77,2024-10-12 21:51:05.182437
+merch_00242,Dasgupta-Pall Digital Goods,Digital Goods,5815,IN,medium,1387.49,2022-09-21 23:29:10.182437
+merch_00243,Ravel-Gole Travel,Travel,4722,IN,low,3864.0,2023-11-03 22:04:37.182437
+merch_00244,"Babu, Mitter and Dutta Travel",Travel,4722,IN,low,1195.29,2024-03-24 20:40:46.182437
+merch_00245,Sami-Kapoor Entertainment,Entertainment,7832,IN,low,2270.42,2022-12-03 04:40:38.182437
+merch_00246,Sama-Mannan Restaurants,Restaurants,5812,IN,low,582.88,2025-11-26 20:48:25.182437
+merch_00247,Bawa Group Restaurants,Restaurants,5812,IN,low,1362.57,2023-08-09 00:57:38.182437
+merch_00248,Mukhopadhyay-Bobal Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2281.08,2026-01-15 11:35:28.182437
+merch_00249,Vig-Shah Fuel,Fuel,5541,IN,low,654.5,2025-07-14 08:32:54.182437
+merch_00250,Chander and Sons Digital Goods,Digital Goods,5815,IN,low,1250.27,2023-06-07 08:58:21.182437
+merch_00251,Arya Group Insurance,Insurance,6300,IN,low,1332.28,2023-08-09 23:59:53.182437
+merch_00252,"Balan, Venkataraman and Sankaran Education",Education,8220,IN,low,689.27,2023-01-05 00:33:51.182437
+merch_00253,"Tara, Raval and Zachariah Fuel",Fuel,5541,IN,low,786.32,2025-05-20 00:31:00.182437
+merch_00254,"Krish, Kumer and Morar Jewelry",Jewelry,5944,IN,medium,569.21,2023-04-03 03:42:32.182437
+merch_00255,Date and Sons Jewelry,Jewelry,5944,IN,low,163.03,2022-11-09 08:36:44.182437
+merch_00256,Ratta and Sons Fashion,Fashion,5651,IN,low,594.36,2022-09-30 05:26:18.182437
+merch_00257,"Doshi, Patel and Shenoy Insurance",Insurance,6300,IN,low,1502.48,2026-03-08 05:31:10.182437
+merch_00258,Dugal-Munshi Travel,Travel,4722,IN,low,812.72,2025-03-26 18:02:34.182437
+merch_00259,"Shere, Dube and Kapadia Utilities",Utilities,4900,IN,low,1259.64,2024-04-30 04:37:26.182437
+merch_00260,"Tailor, Malhotra and Rastogi Travel",Travel,4722,IN,low,1398.33,2026-05-30 12:07:58.182437
+merch_00261,Ramachandran-Setty Crypto/Forex,Crypto/Forex,6051,IN,high,1114.32,2023-01-17 13:46:14.182437
+merch_00262,Bhavsar-Salvi Entertainment,Entertainment,7832,IN,low,2256.45,2023-05-02 02:21:56.182437
+merch_00263,Bhardwaj Ltd Groceries,Groceries,5411,IN,low,4757.56,2024-09-21 18:15:44.182437
+merch_00264,Choudhry-Varty Fashion,Fashion,5651,IN,low,600.26,2023-04-30 14:40:26.182437
+merch_00265,Bali Inc Digital Goods,Digital Goods,5815,IN,low,2579.55,2023-03-21 07:06:01.182437
+merch_00266,"Salvi, Nanda and Shukla Electronics",Electronics,5732,IN,low,692.42,2023-12-11 22:56:47.182437
+merch_00267,Trivedi-Borra Groceries,Groceries,5411,IN,low,1727.43,2024-05-23 10:24:26.182437
+merch_00268,Sha-Mander Entertainment,Entertainment,7832,IN,low,421.96,2024-12-18 01:35:36.182437
+merch_00269,Bhat and Sons Insurance,Insurance,6300,IN,low,1635.58,2025-12-06 12:19:22.182437
+merch_00270,Dara PLC Travel,Travel,4722,IN,low,964.9,2023-03-02 23:13:14.182437
+merch_00271,Pingle Group Fuel,Fuel,5541,IN,low,945.51,2025-07-28 02:08:48.182437
+merch_00272,"Sunder, Bawa and Mannan Restaurants",Restaurants,5812,IN,low,1499.66,2025-03-03 19:43:43.182437
+merch_00273,Saini-Sahni Travel,Travel,4722,IN,low,543.04,2026-06-27 14:58:47.182437
+merch_00274,Deol Group Utilities,Utilities,4900,IN,low,539.71,2024-04-14 21:00:25.182437
+merch_00275,Misra Ltd Digital Goods,Digital Goods,5815,IN,low,996.25,2026-04-24 07:07:51.182437
+merch_00276,Ahuja PLC Education,Education,8220,IN,low,2533.76,2022-09-06 10:57:20.182437
+merch_00277,Lata-Mitra Utilities,Utilities,4900,IN,low,1016.86,2023-08-08 12:33:57.182437
+merch_00278,Garg Ltd Travel,Travel,4722,IN,low,4821.41,2026-02-22 15:56:38.182437
+merch_00279,Sur-Pant Fuel,Fuel,5541,IN,low,5738.97,2025-11-09 05:06:10.182437
+merch_00280,"Kata, Bath and Dara Electronics",Electronics,5732,IN,low,1240.74,2023-07-30 10:45:44.182437
+merch_00281,"Bhandari, Comar and Amble Groceries",Groceries,5411,IN,low,3770.26,2026-03-25 02:29:29.182437
+merch_00282,"Borra, Narayanan and Dhar Restaurants",Restaurants,5812,IN,low,616.2,2025-02-25 15:41:04.182437
+merch_00283,Kumar-Desai Travel,Travel,4722,IN,low,1354.64,2024-10-14 15:45:43.182437
+merch_00284,Venkatesh-Kibe Electronics,Electronics,5732,IN,low,1549.22,2023-12-12 00:14:47.182437
+merch_00285,"Naik, Banik and Kurian Jewelry",Jewelry,5944,IN,medium,1990.5,2026-02-25 15:24:40.182437
+merch_00286,Sani and Sons Fuel,Fuel,5541,IN,low,354.23,2022-09-10 13:13:14.182437
+merch_00287,"Mallick, Tella and Narasimhan Travel",Travel,4722,IN,low,1476.27,2023-04-21 16:16:40.182437
+merch_00288,"Dixit, Salvi and Palla Electronics",Electronics,5732,IN,low,3064.1,2024-06-09 01:55:36.182437
+merch_00289,Bir PLC Groceries,Groceries,5411,IN,low,145.99,2025-07-07 18:45:52.182437
+merch_00290,Pradhan Inc Digital Goods,Digital Goods,5815,IN,low,651.87,2025-02-10 06:01:07.182437
+merch_00291,Khalsa-Suresh Restaurants,Restaurants,5812,IN,low,3112.05,2025-05-24 14:32:19.182437
+merch_00292,Taneja Ltd Restaurants,Restaurants,5812,IN,low,796.73,2023-07-24 12:59:53.182437
+merch_00293,Comar Group Fuel,Fuel,5541,IN,low,1440.06,2025-04-17 08:03:37.182437
+merch_00294,"Deshpande, Chaudhary and Parmer Restaurants",Restaurants,5812,IN,low,1767.45,2024-09-28 00:44:18.182437
+merch_00295,Pradhan LLC Digital Goods,Digital Goods,5815,IN,low,654.13,2025-03-24 13:55:11.182437
+merch_00296,Bhardwaj-Biswas Electronics,Electronics,5732,IN,low,470.42,2022-09-01 23:06:43.182437
+merch_00297,"Borra, Karpe and Datta Electronics",Electronics,5732,IN,low,1110.27,2025-05-29 11:37:56.182437
+merch_00298,Bajwa Ltd Electronics,Electronics,5732,IN,low,2717.16,2023-06-11 07:04:25.182437
+merch_00299,"Puri, Chander and Swamy Crypto/Forex",Crypto/Forex,6051,IN,high,1484.99,2024-02-11 09:42:21.182437
+merch_00300,Memon-Nayak Utilities,Utilities,4900,IN,low,481.25,2023-01-31 06:00:46.182437
+merch_00301,Kaul PLC Utilities,Utilities,4900,IN,low,2282.25,2023-04-13 21:54:24.182437
+merch_00302,"Nagy, Char and Nagar Travel",Travel,4722,IN,low,506.2,2026-03-29 06:35:20.182437
+merch_00303,Raj Group Fuel,Fuel,5541,IN,low,1733.19,2024-04-05 17:54:13.182437
+merch_00304,Tata LLC Crypto/Forex,Crypto/Forex,6051,IN,high,1156.51,2023-11-08 22:13:20.182437
+merch_00305,"Kulkarni, Majumdar and Mittal Crypto/Forex",Crypto/Forex,6051,IN,high,913.4,2024-11-05 10:07:58.182437
+merch_00306,Garg-Nayak Crypto/Forex,Crypto/Forex,6051,IN,medium,1065.76,2025-03-18 08:45:45.182437
+merch_00307,"Borde, Majumdar and Ben Fashion",Fashion,5651,IN,low,1182.53,2022-09-02 13:51:52.182437
+merch_00308,"Sarkar, Palla and Raghavan Crypto/Forex",Crypto/Forex,6051,IN,high,1268.58,2025-04-21 11:00:17.182437
+merch_00309,Borah-Memon Pharmacy,Pharmacy,5912,IN,low,1550.76,2026-06-25 13:25:57.182437
+merch_00310,"Kapadia, Yogi and Zachariah Travel",Travel,4722,IN,low,2524.9,2023-08-17 05:51:37.182437
+merch_00311,Sawhney-Kalita Electronics,Electronics,5732,IN,low,4110.67,2023-11-16 12:13:31.182437
+merch_00312,"Edwin, Andra and Dara Pharmacy",Pharmacy,5912,IN,low,1303.71,2025-12-22 21:11:11.182437
+merch_00313,Sangha Ltd Fuel,Fuel,5541,IN,low,2335.42,2025-10-02 01:08:35.182437
+merch_00314,Kannan Group Pharmacy,Pharmacy,5912,IN,low,1419.8,2023-08-02 03:52:18.182437
+merch_00315,Dey and Sons Travel,Travel,4722,IN,low,1015.33,2025-10-26 19:33:39.182437
+merch_00316,"Desai, Dada and Gill Restaurants",Restaurants,5812,IN,low,1607.07,2023-01-05 10:53:15.182437
+merch_00317,Walla LLC Utilities,Utilities,4900,IN,low,350.97,2025-06-05 21:10:09.182437
+merch_00318,Kanda-Verma Gambling/Gaming,Gambling/Gaming,7995,IN,high,580.1,2025-12-26 07:21:12.182437
+merch_00319,Chawla Inc Jewelry,Jewelry,5944,IN,medium,446.06,2023-11-15 06:44:26.182437
+merch_00320,Sagar and Sons Fuel,Fuel,5541,IN,low,1542.1,2024-04-06 04:01:39.182437
+merch_00321,Dubey LLC Fashion,Fashion,5651,IN,low,193.58,2024-07-14 23:21:16.182437
+merch_00322,Muni-Nagi Crypto/Forex,Crypto/Forex,6051,IN,medium,400.73,2023-09-14 10:51:09.182437
+merch_00323,Kapur and Sons Entertainment,Entertainment,7832,IN,low,250.83,2022-09-18 17:16:32.182437
+merch_00324,"Ravel, Vohra and Behl Pharmacy",Pharmacy,5912,IN,low,1322.17,2025-10-22 10:48:14.182437
+merch_00325,"Parmer, Vig and Barman Groceries",Groceries,5411,IN,low,900.88,2025-04-11 00:49:32.182437
+merch_00326,Parmar and Sons Fashion,Fashion,5651,IN,low,1071.77,2025-11-17 14:54:14.182437
+merch_00327,Kalla-Madan Fuel,Fuel,5541,IN,low,1735.44,2023-06-29 22:38:13.182437
+merch_00328,"Saini, Ramaswamy and Vohra Gambling/Gaming",Gambling/Gaming,7995,IN,high,1224.4,2023-02-07 22:56:18.182437
+merch_00329,"Chakrabarti, Handa and Chhabra Insurance",Insurance,6300,IN,low,981.23,2023-01-01 11:16:56.182437
+merch_00330,Nair-Tara Gambling/Gaming,Gambling/Gaming,7995,IN,high,188.15,2024-10-12 20:34:22.182437
+merch_00331,Mall Ltd Utilities,Utilities,4900,IN,low,1737.76,2024-06-13 07:49:56.182437
+merch_00332,Gaba-Bava Crypto/Forex,Crypto/Forex,6051,IN,high,171.86,2022-11-28 12:03:13.182437
+merch_00333,"Nagi, Toor and Gill Fuel",Fuel,5541,IN,low,1492.77,2023-05-31 09:38:53.182437
+merch_00334,More LLC Gambling/Gaming,Gambling/Gaming,7995,IN,high,7496.35,2026-06-22 03:52:48.182437
+merch_00335,Koshy LLC Pharmacy,Pharmacy,5912,IN,low,1950.02,2024-06-09 05:47:25.182437
+merch_00336,Uppal Group Groceries,Groceries,5411,IN,low,748.08,2023-03-11 23:23:28.182437
+merch_00337,Sood-Nayar Electronics,Electronics,5732,IN,low,2456.95,2025-12-29 06:41:46.182437
+merch_00338,Brar-Rao Digital Goods,Digital Goods,5815,IN,low,4557.11,2023-01-11 04:42:45.182437
+merch_00339,Wadhwa Inc Education,Education,8220,IN,low,2740.93,2025-08-21 15:04:13.182437
+merch_00340,Morar-Issac Gambling/Gaming,Gambling/Gaming,7995,IN,medium,3358.49,2024-12-27 04:17:21.182437
+merch_00341,Bhargava Group Electronics,Electronics,5732,IN,low,613.33,2024-05-22 16:05:05.182437
+merch_00342,Madan-Chaudhry Gambling/Gaming,Gambling/Gaming,7995,IN,medium,918.1,2025-09-23 08:32:35.182437
+merch_00343,Dua PLC Digital Goods,Digital Goods,5815,IN,low,2159.63,2023-03-22 21:15:28.182437
+merch_00344,"Choudhary, Mahajan and Bobal Restaurants",Restaurants,5812,IN,low,1201.57,2022-12-15 07:58:49.182437
+merch_00345,"Saran, Cheema and Cherian Gambling/Gaming",Gambling/Gaming,7995,IN,medium,570.62,2024-09-11 00:32:42.182437
+merch_00346,"Shan, Pillai and Badami Gambling/Gaming",Gambling/Gaming,7995,IN,high,1973.35,2024-07-16 01:42:34.182437
+merch_00347,Keer Ltd Electronics,Electronics,5732,IN,low,2154.03,2024-04-20 23:36:46.182437
+merch_00348,Ramachandran-Dhingra Gambling/Gaming,Gambling/Gaming,7995,IN,high,1016.94,2025-05-08 11:41:54.182437
+merch_00349,"Balay, Parmar and Bumb Utilities",Utilities,4900,IN,low,491.9,2023-07-13 10:28:37.182437
+merch_00350,Bedi Ltd Fuel,Fuel,5541,IN,low,883.03,2023-09-16 00:34:03.182437
+merch_00351,Jayaraman LLC Travel,Travel,4722,IN,low,941.61,2023-04-21 14:13:19.182437
+merch_00352,"Bedi, Mital and Mall Restaurants",Restaurants,5812,IN,low,1426.12,2025-07-27 05:57:04.182437
+merch_00353,"Deol, Bhardwaj and Chadha Entertainment",Entertainment,7832,IN,low,416.12,2023-03-08 23:54:15.182437
+merch_00354,Kalla PLC Jewelry,Jewelry,5944,IN,low,1128.31,2023-04-28 00:42:43.182437
+merch_00355,Gola-Ranganathan Groceries,Groceries,5411,IN,low,829.61,2026-05-10 17:05:27.182437
+merch_00356,Luthra-Sarkar Travel,Travel,4722,IN,low,1988.79,2024-04-08 19:38:38.182437
+merch_00357,"Naik, Boase and Dugar Education",Education,8220,IN,low,9934.85,2025-05-13 09:03:27.182437
+merch_00358,Desai Group Jewelry,Jewelry,5944,IN,medium,1485.84,2025-05-31 00:41:12.182437
+merch_00359,Nadkarni-Jani Jewelry,Jewelry,5944,IN,low,1240.61,2023-08-07 13:25:48.182437
+merch_00360,"Bhandari, Buch and Mallick Insurance",Insurance,6300,IN,low,1711.54,2024-10-11 08:17:40.182437
+merch_00361,"Dugal, Kaur and Kumar Groceries",Groceries,5411,IN,low,2197.87,2023-01-05 21:25:29.182437
+merch_00362,Parmar Ltd Fashion,Fashion,5651,IN,low,58.82,2026-04-04 16:04:21.182437
+merch_00363,Sheth Inc Travel,Travel,4722,IN,low,1232.48,2025-03-28 13:46:53.182437
+merch_00364,Bumb Group Fashion,Fashion,5651,IN,low,2384.43,2023-06-24 21:35:45.182437
+merch_00365,"Padmanabhan, Banerjee and Oommen Electronics",Electronics,5732,IN,low,278.3,2022-10-30 23:08:10.182437
+merch_00366,Sarma-Vig Electronics,Electronics,5732,IN,low,1476.67,2025-11-01 08:12:21.182437
+merch_00367,Kunda Group Restaurants,Restaurants,5812,IN,low,2549.25,2024-08-03 08:02:09.182437
+merch_00368,"Krishna, Devi and Trivedi Education",Education,8220,IN,low,4456.9,2024-02-03 17:32:44.182437
+merch_00369,"Sengupta, Natarajan and Basu Pharmacy",Pharmacy,5912,IN,low,1593.59,2023-09-15 09:02:48.182437
+merch_00370,Balasubramanian-Mitter Digital Goods,Digital Goods,5815,IN,medium,1978.36,2025-01-22 20:02:08.182437
+merch_00371,"Goel, Prasad and Sood Insurance",Insurance,6300,IN,low,1837.82,2025-08-16 08:12:29.182437
+merch_00372,Chana and Sons Travel,Travel,4722,IN,low,351.3,2026-05-18 00:11:57.182437
+merch_00373,"Dara, Thaman and Gara Restaurants",Restaurants,5812,IN,low,5617.68,2025-08-25 21:26:29.182437
+merch_00374,Bansal Ltd Crypto/Forex,Crypto/Forex,6051,IN,medium,1694.86,2023-04-09 05:10:34.182437
+merch_00375,Oak LLC Fashion,Fashion,5651,IN,low,1095.35,2024-07-09 03:58:38.182437
+merch_00376,Panchal-Saran Fuel,Fuel,5541,IN,low,3109.97,2025-03-17 22:55:25.182437
+merch_00377,Setty Inc Gambling/Gaming,Gambling/Gaming,7995,IN,high,699.42,2026-04-13 10:51:15.182437
+merch_00378,Agate Inc Utilities,Utilities,4900,IN,low,1867.12,2024-04-11 01:16:47.182437
+merch_00379,"Kapadia, Bhatti and Butala Digital Goods",Digital Goods,5815,IN,low,1015.2,2024-09-11 11:15:28.182437
+merch_00380,Purohit Ltd Pharmacy,Pharmacy,5912,IN,low,676.55,2024-12-08 10:23:09.182437
+merch_00381,Nagar Inc Crypto/Forex,Crypto/Forex,6051,IN,medium,1330.27,2024-09-30 07:54:24.182437
+merch_00382,"Kanda, Salvi and Edwin Gambling/Gaming",Gambling/Gaming,7995,IN,high,1478.26,2026-01-25 18:22:16.182437
+merch_00383,Parikh-Sarma Gambling/Gaming,Gambling/Gaming,7995,IN,high,1205.77,2024-02-12 19:31:03.182437
+merch_00384,Ramesh Ltd Digital Goods,Digital Goods,5815,IN,low,5993.75,2024-02-10 05:12:24.182437
+merch_00385,Narula-Sood Insurance,Insurance,6300,IN,low,1468.56,2023-07-22 11:08:48.182437
+merch_00386,"Nadkarni, Kaur and Patil Insurance",Insurance,6300,IN,low,978.89,2024-11-20 10:39:44.182437
+merch_00387,Konda-Dube Travel,Travel,4722,IN,low,1440.53,2022-11-01 19:56:23.182437
+merch_00388,Shanker-Comar Groceries,Groceries,5411,IN,low,2172.91,2023-01-29 13:26:33.182437
+merch_00389,Mahal-Biswas Pharmacy,Pharmacy,5912,IN,low,1785.62,2023-10-30 15:11:40.182437
+merch_00390,Amble-Nanda Gambling/Gaming,Gambling/Gaming,7995,IN,high,3760.26,2026-02-15 01:56:41.182437
+merch_00391,Singhal Group Utilities,Utilities,4900,IN,low,1600.47,2026-01-29 11:08:40.182437
+merch_00392,Parekh-Grover Fuel,Fuel,5541,IN,low,124.85,2023-05-11 00:12:46.182437
+merch_00393,Sathe-Bal Crypto/Forex,Crypto/Forex,6051,IN,high,1480.33,2023-11-27 16:00:23.182437
+merch_00394,"Sachdeva, Rai and Cherian Travel",Travel,4722,IN,low,1494.03,2024-06-29 10:10:15.182437
+merch_00395,Sekhon-Srinivasan Entertainment,Entertainment,7832,IN,low,2632.0,2026-05-05 17:33:37.182437
+merch_00396,"Loyal, Ben and Hayre Pharmacy",Pharmacy,5912,IN,low,184.91,2026-05-22 20:37:45.182437
+merch_00397,Rout-Sehgal Restaurants,Restaurants,5812,IN,low,1925.77,2026-05-14 14:17:30.182437
+merch_00398,"Solanki, Dar and Din Insurance",Insurance,6300,IN,low,2373.89,2024-03-24 16:07:02.182437
+merch_00399,Hari PLC Groceries,Groceries,5411,IN,low,1503.32,2026-02-01 00:47:54.182437
+merch_00400,"Boase, Sibal and Chakraborty Travel",Travel,4722,IN,low,2232.97,2024-09-25 14:40:45.182437
+merch_00401,Chadha-Sastry Travel,Travel,4722,IN,low,585.54,2023-11-07 04:21:00.182437
+merch_00402,Sahota Group Fuel,Fuel,5541,IN,low,2478.83,2024-02-17 08:40:13.182437
+merch_00403,Varty-Pal Restaurants,Restaurants,5812,IN,low,499.95,2026-02-04 15:09:30.182437
+merch_00404,"Ganguly, Khurana and Parmer Insurance",Insurance,6300,IN,low,796.45,2023-09-20 10:10:41.182437
+merch_00405,Basak LLC Entertainment,Entertainment,7832,IN,low,2089.25,2026-03-17 23:46:56.182437
+merch_00406,Shroff-Arya Fuel,Fuel,5541,IN,low,4784.19,2025-07-09 16:07:47.182437
+merch_00407,"Doshi, Mann and Lala Utilities",Utilities,4900,IN,low,4222.1,2023-12-30 13:35:19.182437
+merch_00408,Chopra-Dube Insurance,Insurance,6300,IN,low,1703.76,2025-11-08 23:23:10.182437
+merch_00409,Dara and Sons Utilities,Utilities,4900,IN,low,287.7,2025-04-08 22:43:45.182437
+merch_00410,Kashyap PLC Entertainment,Entertainment,7832,IN,low,822.52,2024-05-28 19:28:20.182437
+merch_00411,Singhal Ltd Fashion,Fashion,5651,IN,low,1038.68,2024-11-28 10:22:04.182437
+merch_00412,Chanda and Sons Entertainment,Entertainment,7832,IN,low,76.18,2024-11-01 01:14:21.182437
+merch_00413,"Bir, Apte and Chandran Fashion",Fashion,5651,IN,low,490.82,2025-03-01 05:51:00.182437
+merch_00414,Prabhakar LLC Utilities,Utilities,4900,IN,low,2529.97,2023-05-04 21:53:17.182437
+merch_00415,Lal-Om Travel,Travel,4722,IN,low,4039.6,2023-11-05 16:16:04.182437
+merch_00416,"Sarna, Raja and Keer Education",Education,8220,IN,low,2819.87,2026-01-26 21:17:48.182437
+merch_00417,Tank Group Digital Goods,Digital Goods,5815,IN,low,864.99,2024-03-22 19:40:21.182437
+merch_00418,Arya-Garde Education,Education,8220,IN,low,2160.81,2023-03-04 15:52:07.182437
+merch_00419,Radhakrishnan-Nath Electronics,Electronics,5732,IN,low,1298.74,2023-12-19 09:35:19.182437
+merch_00420,Saraf-Handa Utilities,Utilities,4900,IN,low,486.96,2025-04-27 09:37:09.182437
+merch_00421,"Goyal, Chatterjee and Chatterjee Travel",Travel,4722,IN,low,1643.38,2023-12-31 22:37:24.182437
+merch_00422,Walla Inc Electronics,Electronics,5732,IN,low,2020.86,2024-06-01 18:16:59.182437
+merch_00423,Sandhu-Pandya Digital Goods,Digital Goods,5815,IN,low,584.63,2025-01-27 07:31:59.182437
+merch_00424,"Ravel, Jayaraman and Narain Utilities",Utilities,4900,IN,low,360.14,2024-01-19 17:21:25.182437
+merch_00425,Yadav and Sons Utilities,Utilities,4900,IN,low,880.65,2024-12-06 00:56:32.182437
+merch_00426,Jani-Mody Insurance,Insurance,6300,IN,low,3120.37,2024-01-30 07:19:09.182437
+merch_00427,Sur-Buch Education,Education,8220,IN,low,2297.79,2023-02-16 10:01:03.182437
+merch_00428,Sagar LLC Travel,Travel,4722,IN,low,933.3,2026-02-21 03:17:04.182437
+merch_00429,Comar LLC Gambling/Gaming,Gambling/Gaming,7995,IN,medium,631.55,2024-06-14 20:24:57.182437
+merch_00430,"Wali, Hayre and Murty Pharmacy",Pharmacy,5912,IN,low,1289.49,2023-03-14 01:47:13.182437
+merch_00431,"Sane, Wable and Loke Pharmacy",Pharmacy,5912,IN,low,460.84,2024-07-24 15:10:32.182437
+merch_00432,Golla-Raman Insurance,Insurance,6300,IN,low,1516.19,2024-06-08 22:20:20.182437
+merch_00433,Ghose LLC Crypto/Forex,Crypto/Forex,6051,IN,high,1142.43,2025-03-14 14:20:58.182437
+merch_00434,Mangal-Char Restaurants,Restaurants,5812,IN,low,64.66,2025-10-21 20:04:43.182437
+merch_00435,Goda and Sons Fuel,Fuel,5541,IN,low,974.99,2025-08-24 12:25:20.182437
+merch_00436,Wali-Dixit Electronics,Electronics,5732,IN,low,80.69,2025-04-09 09:41:11.182437
+merch_00437,Bansal-Bhattacharyya Entertainment,Entertainment,7832,IN,low,1595.21,2025-02-22 10:47:00.182437
+merch_00438,"Anand, Panchal and Ghose Pharmacy",Pharmacy,5912,IN,low,427.07,2023-07-30 13:04:29.182437
+merch_00439,"Nadig, Barad and Mann Fashion",Fashion,5651,IN,low,236.04,2025-07-28 13:59:39.182437
+merch_00440,"Madan, Parmar and Chakraborty Insurance",Insurance,6300,IN,low,1065.75,2023-10-22 02:08:21.182437
+merch_00441,"Dugar, Sheth and Swaminathan Education",Education,8220,IN,low,988.26,2023-04-01 21:16:10.182437
+merch_00442,Balay LLC Groceries,Groceries,5411,IN,low,1634.85,2023-03-21 05:55:26.182437
+merch_00443,Parsa Ltd Digital Goods,Digital Goods,5815,IN,low,445.91,2024-07-08 18:00:11.182437
+merch_00444,"Deshmukh, Arya and Desai Education",Education,8220,IN,low,3376.25,2025-12-27 10:57:58.182437
+merch_00445,Oommen-Natt Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2211.02,2022-09-05 13:11:11.182437
+merch_00446,Patil-Dhawan Travel,Travel,4722,IN,low,3465.51,2023-04-15 15:38:23.182437
+merch_00447,"Som, Cheema and Krishnamurthy Pharmacy",Pharmacy,5912,IN,low,1108.97,2023-06-30 01:19:02.182437
+merch_00448,Mand Ltd Fashion,Fashion,5651,IN,low,571.55,2026-06-16 22:56:21.182437
+merch_00449,"Lala, Ganguly and Chaudhari Entertainment",Entertainment,7832,IN,low,4045.61,2024-08-15 15:03:42.182437
+merch_00450,Srivastava-Prashad Jewelry,Jewelry,5944,IN,medium,2181.24,2025-08-04 23:24:18.182437
+merch_00451,Sunder and Sons Insurance,Insurance,6300,IN,low,1042.6,2026-04-18 08:06:06.182437
+merch_00452,Patla-Rege Crypto/Forex,Crypto/Forex,6051,IN,high,1252.71,2025-08-19 16:01:11.182437
+merch_00453,Yohannan Ltd Electronics,Electronics,5732,IN,low,889.35,2023-11-18 09:42:13.182437
+merch_00454,"Mangal, Buch and Dara Insurance",Insurance,6300,IN,low,2591.84,2024-02-16 12:38:17.182437
+merch_00455,Sha PLC Entertainment,Entertainment,7832,IN,low,1732.84,2025-09-25 23:06:57.182437
+merch_00456,"Dada, Rattan and Lala Digital Goods",Digital Goods,5815,IN,low,1900.19,2026-05-23 11:24:10.182437
+merch_00457,Anand-Dube Travel,Travel,4722,IN,low,524.33,2024-04-01 02:19:51.182437
+merch_00458,Morar and Sons Groceries,Groceries,5411,IN,low,1164.56,2026-05-02 23:12:29.182437
+merch_00459,"Lall, Dara and Bhatti Jewelry",Jewelry,5944,IN,low,1494.46,2025-06-12 22:47:38.182437
+merch_00460,Nagarajan-Mandal Electronics,Electronics,5732,IN,low,265.01,2024-08-11 17:20:51.182437
+merch_00461,"Dugar, Gola and Sandhu Electronics",Electronics,5732,IN,low,1712.84,2023-07-12 01:26:43.182437
+merch_00462,Muni LLC Restaurants,Restaurants,5812,IN,low,1386.18,2025-06-04 01:56:23.182437
+merch_00463,Bhat PLC Digital Goods,Digital Goods,5815,IN,low,2436.89,2023-01-22 04:10:41.182437
+merch_00464,Sachdev-Sarma Fashion,Fashion,5651,IN,low,2734.32,2024-08-02 03:14:30.182437
+merch_00465,"Solanki, Bose and Choudhary Jewelry",Jewelry,5944,IN,medium,4675.23,2023-04-10 11:38:16.182437
+merch_00466,"Saini, Mall and Sanghvi Pharmacy",Pharmacy,5912,IN,low,1460.16,2023-09-11 06:31:16.182437
+merch_00467,Kibe Inc Restaurants,Restaurants,5812,IN,low,975.04,2024-07-20 14:08:24.182437
+merch_00468,Raja-Shere Gambling/Gaming,Gambling/Gaming,7995,IN,high,450.0,2023-04-29 04:35:10.182437
+merch_00469,"Kunda, Madan and Dash Crypto/Forex",Crypto/Forex,6051,IN,medium,375.42,2025-01-27 03:55:54.182437
+merch_00470,Sengupta LLC Crypto/Forex,Crypto/Forex,6051,IN,high,1239.3,2024-01-03 16:02:39.182437
+merch_00471,"Modi, Singhal and Dara Groceries",Groceries,5411,IN,low,340.91,2025-09-17 18:34:05.182437
+merch_00472,Prakash PLC Insurance,Insurance,6300,IN,low,406.66,2024-05-03 22:00:36.182437
+merch_00473,Sant Inc Entertainment,Entertainment,7832,IN,low,1273.89,2024-05-12 10:49:25.182437
+merch_00474,Basu PLC Pharmacy,Pharmacy,5912,IN,low,914.08,2025-10-06 12:47:55.182437
+merch_00475,"Bhattacharyya, Mammen and Kapur Entertainment",Entertainment,7832,IN,low,567.78,2022-09-17 00:20:45.182437
+merch_00476,Venkatesh LLC Utilities,Utilities,4900,IN,low,968.17,2023-07-01 23:48:00.182437
+merch_00477,Dhaliwal LLC Utilities,Utilities,4900,IN,low,2263.99,2025-05-04 15:34:33.182437
+merch_00478,Sood LLC Restaurants,Restaurants,5812,IN,low,1736.7,2025-07-06 23:18:00.182437
+merch_00479,Mahajan Ltd Travel,Travel,4722,IN,low,2658.8,2026-04-09 04:09:53.182437
+merch_00480,"Chakraborty, Shetty and Sodhi Education",Education,8220,IN,low,1111.16,2025-12-29 09:17:56.182437
+merch_00481,Ramakrishnan-Kapoor Pharmacy,Pharmacy,5912,IN,low,889.44,2024-11-14 21:27:21.182437
+merch_00482,Kurian Group Utilities,Utilities,4900,IN,low,1431.66,2023-07-07 03:59:04.182437
+merch_00483,Rattan PLC Electronics,Electronics,5732,IN,low,415.09,2023-02-21 00:37:17.182437
+merch_00484,Narasimhan-Nagarajan Groceries,Groceries,5411,IN,low,1041.45,2023-04-01 15:07:37.182437
+merch_00485,Samra Group Insurance,Insurance,6300,IN,low,953.0,2026-01-13 20:20:13.182437
+merch_00486,"Reddy, Kalita and Kari Education",Education,8220,IN,low,6618.96,2023-04-22 04:23:31.182437
+merch_00487,Bhatt-Sodhi Electronics,Electronics,5732,IN,low,3019.92,2026-02-26 05:40:10.182437
+merch_00488,Deol-Kunda Education,Education,8220,IN,low,2063.8,2022-11-13 21:29:09.182437
+merch_00489,Sani and Sons Insurance,Insurance,6300,IN,low,1782.24,2026-06-09 09:35:11.182437
+merch_00490,Gaba and Sons Crypto/Forex,Crypto/Forex,6051,IN,high,3801.84,2023-11-26 15:25:48.182437
+merch_00491,Balakrishnan Inc Jewelry,Jewelry,5944,IN,medium,1771.25,2023-03-14 06:30:58.182437
+merch_00492,Arya-Kashyap Utilities,Utilities,4900,IN,low,660.13,2026-02-19 02:11:46.182437
+merch_00493,Lanka Ltd Fashion,Fashion,5651,IN,low,614.78,2025-12-12 22:31:52.182437
+merch_00494,Pai Group Education,Education,8220,IN,low,2306.44,2024-12-20 11:51:51.182437
+merch_00495,Iyer-Sani Restaurants,Restaurants,5812,IN,low,2017.87,2023-07-13 14:01:06.182437
+merch_00496,Rai-Bal Pharmacy,Pharmacy,5912,IN,low,1764.47,2023-07-25 21:25:42.182437
+merch_00497,"Bhagat, Grewal and Yohannan Utilities",Utilities,4900,IN,low,2742.52,2026-04-09 19:33:36.182437
+merch_00498,"Batra, Singhal and Pandit Entertainment",Entertainment,7832,IN,low,2638.31,2025-07-14 09:59:10.182437
+merch_00499,Kale Inc Digital Goods,Digital Goods,5815,IN,low,211.55,2026-01-07 22:58:10.182437
+merch_00500,Sidhu-Dixit Jewelry,Jewelry,5944,IN,low,1134.58,2025-08-07 17:11:24.182437
+merch_00501,"Korpal, Varughese and Garg Jewelry",Jewelry,5944,IN,medium,1902.24,2024-10-12 13:34:00.182437
+merch_00502,Sengupta-Anne Crypto/Forex,Crypto/Forex,6051,IN,high,3226.5,2023-01-10 00:52:42.182437
+merch_00503,"Karnik, Krishnamurthy and Ramesh Crypto/Forex",Crypto/Forex,6051,IN,medium,2119.4,2022-09-12 07:36:57.182437
+merch_00504,Chander LLC Education,Education,8220,IN,low,2327.61,2024-02-02 01:08:08.182437
+merch_00505,"Kunda, Shere and Sura Gambling/Gaming",Gambling/Gaming,7995,IN,high,477.48,2025-03-29 01:32:48.182437
+merch_00506,"Kadakia, Chander and Nazareth Insurance",Insurance,6300,IN,low,308.78,2023-11-17 02:36:07.182437
+merch_00507,"Chaudhry, Thaman and Nigam Insurance",Insurance,6300,IN,low,1706.97,2024-07-05 07:13:27.182437
+merch_00508,"Korpal, Wali and Uppal Insurance",Insurance,6300,IN,low,877.14,2025-03-17 21:16:27.182437
+merch_00509,Kapoor-Tata Travel,Travel,4722,IN,low,1937.17,2022-10-06 02:01:58.182437
+merch_00510,"Kulkarni, Narayanan and Parekh Jewelry",Jewelry,5944,IN,medium,742.06,2024-06-11 03:07:38.182437
+merch_00511,"Balay, Raval and Date Fashion",Fashion,5651,IN,low,856.97,2025-01-28 12:29:16.182437
+merch_00512,"Palla, Badal and Kanda Crypto/Forex",Crypto/Forex,6051,IN,high,2281.11,2023-02-22 10:12:32.182437
+merch_00513,Chaudry-Pau Education,Education,8220,IN,low,1332.23,2023-06-17 11:50:07.182437
+merch_00514,"Toor, Chahal and Bandi Travel",Travel,4722,IN,low,706.71,2023-10-10 01:34:27.182437
+merch_00515,"Lalla, Nayar and Tailor Digital Goods",Digital Goods,5815,IN,low,1184.28,2026-05-07 20:31:32.182437
+merch_00516,"Verma, Modi and Tailor Groceries",Groceries,5411,IN,low,2058.81,2025-01-21 18:54:38.182437
+merch_00517,Dasgupta Ltd Insurance,Insurance,6300,IN,low,1248.46,2023-07-29 23:34:57.182437
+merch_00518,Sura PLC Fuel,Fuel,5541,IN,low,1888.85,2022-11-15 07:20:37.182437
+merch_00519,Mitter PLC Education,Education,8220,IN,low,1062.71,2025-06-09 06:58:44.182437
+merch_00520,"Barad, Tandon and Anand Insurance",Insurance,6300,IN,low,3045.17,2026-05-19 10:26:00.182437
+merch_00521,"Aggarwal, Kuruvilla and Narasimhan Electronics",Electronics,5732,IN,low,1164.56,2022-12-28 01:37:00.182437
+merch_00522,Kumer-Sem Groceries,Groceries,5411,IN,low,829.53,2026-06-26 04:29:18.182437
+merch_00523,Bansal-Bobal Fuel,Fuel,5541,IN,low,3582.19,2023-11-26 00:21:09.182437
+merch_00524,"Palla, Iyer and Ahuja Utilities",Utilities,4900,IN,low,1339.15,2023-02-16 05:04:16.182437
+merch_00525,Ranganathan-Parmer Entertainment,Entertainment,7832,IN,low,1867.41,2024-02-16 16:03:25.182437
+merch_00526,Narang LLC Pharmacy,Pharmacy,5912,IN,low,821.62,2026-06-27 06:53:40.182437
+merch_00527,Murthy-Dass Jewelry,Jewelry,5944,IN,medium,1825.63,2026-06-19 10:29:24.182437
+merch_00528,Parmar-Chand Crypto/Forex,Crypto/Forex,6051,IN,high,2051.2,2024-12-17 00:12:49.182437
+merch_00529,"Chaudhari, Shanker and Lalla Insurance",Insurance,6300,IN,low,661.88,2022-11-13 13:10:47.182437
+merch_00530,Chanda-Rajagopalan Restaurants,Restaurants,5812,IN,low,2417.88,2024-11-20 15:30:00.182437
+merch_00531,Anne-Dewan Crypto/Forex,Crypto/Forex,6051,IN,high,1221.09,2025-05-18 06:59:54.182437
+merch_00532,Sood-Sekhon Pharmacy,Pharmacy,5912,IN,low,2417.33,2025-10-04 01:29:30.182437
+merch_00533,"Shenoy, Goswami and Badami Crypto/Forex",Crypto/Forex,6051,IN,medium,726.71,2023-09-30 07:48:32.182437
+merch_00534,Lad-Murthy Gambling/Gaming,Gambling/Gaming,7995,IN,medium,863.01,2023-11-10 14:12:37.182437
+merch_00535,Grewal Group Electronics,Electronics,5732,IN,low,1502.57,2023-10-26 04:52:40.182437
+merch_00536,"Shukla, Chandra and Kulkarni Restaurants",Restaurants,5812,IN,low,613.47,2022-12-06 23:39:25.182437
+merch_00537,Agrawal PLC Fuel,Fuel,5541,IN,low,1540.3,2024-05-20 22:36:18.182437
+merch_00538,Vaidya-Pant Utilities,Utilities,4900,IN,low,1721.72,2026-06-17 22:59:43.182437
+merch_00539,"Kibe, Nath and Ratta Jewelry",Jewelry,5944,IN,low,1500.55,2025-08-01 03:19:32.182437
+merch_00540,"Ramesh, Kapoor and Narula Restaurants",Restaurants,5812,IN,low,1426.25,2026-03-16 18:31:08.182437
+merch_00541,"Yadav, Purohit and Palla Fuel",Fuel,5541,IN,low,506.18,2023-06-22 08:42:54.182437
+merch_00542,Walla PLC Jewelry,Jewelry,5944,IN,medium,356.43,2023-02-05 19:24:11.182437
+merch_00543,Shetty LLC Fashion,Fashion,5651,IN,low,1280.59,2024-11-06 20:45:45.182437
+merch_00544,Edwin PLC Gambling/Gaming,Gambling/Gaming,7995,IN,medium,233.71,2023-12-24 18:51:26.182437
+merch_00545,Lad-Varughese Entertainment,Entertainment,7832,IN,low,192.32,2024-01-08 10:13:39.182437
+merch_00546,Kannan-Lala Fuel,Fuel,5541,IN,low,853.29,2024-10-23 07:34:55.182437
+merch_00547,"Palan, Vala and Pau Electronics",Electronics,5732,IN,low,602.48,2023-07-01 22:06:31.182437
+merch_00548,Gupta-Maharaj Electronics,Electronics,5732,IN,low,1766.69,2025-04-25 20:00:18.182437
+merch_00549,Zachariah Inc Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1278.26,2024-05-17 06:57:12.182437
+merch_00550,Patel-Gara Jewelry,Jewelry,5944,IN,medium,1714.37,2024-04-13 07:06:25.182437
+merch_00551,Maharaj-Pant Fashion,Fashion,5651,IN,low,2394.64,2024-07-24 17:44:01.182437
+merch_00552,Varughese-Dugar Groceries,Groceries,5411,IN,low,3073.65,2024-09-24 09:05:44.182437
+merch_00553,Pandit-Handa Education,Education,8220,IN,low,2202.98,2026-02-16 19:34:33.182437
+merch_00554,Yadav-Puri Entertainment,Entertainment,7832,IN,low,1473.51,2024-12-29 11:16:36.182437
+merch_00555,Malhotra-Comar Fashion,Fashion,5651,IN,low,559.11,2022-10-24 19:50:36.182437
+merch_00556,Chauhan-Sachdeva Groceries,Groceries,5411,IN,low,2894.1,2025-03-31 13:31:41.182437
+merch_00557,Lalla-Misra Electronics,Electronics,5732,IN,low,461.12,2023-04-27 04:24:24.182437
+merch_00558,Chad-Wable Insurance,Insurance,6300,IN,low,2437.32,2024-08-17 08:50:26.182437
+merch_00559,Sen PLC Pharmacy,Pharmacy,5912,IN,low,3296.13,2025-06-15 11:08:37.182437
+merch_00560,Bobal-Varty Groceries,Groceries,5411,IN,low,1793.54,2024-05-19 14:13:38.182437
+merch_00561,Zachariah-Chowdhury Insurance,Insurance,6300,IN,low,573.84,2025-03-28 15:05:53.182437
+merch_00562,Raju-Wali Jewelry,Jewelry,5944,IN,medium,905.63,2025-05-29 00:50:05.182437
+merch_00563,"Sampath, Yohannan and Balan Crypto/Forex",Crypto/Forex,6051,IN,medium,1575.1,2025-08-23 20:30:59.182437
+merch_00564,Sinha-Sabharwal Groceries,Groceries,5411,IN,low,699.0,2024-07-06 22:57:00.182437
+merch_00565,Edwin-Madan Groceries,Groceries,5411,IN,low,1457.29,2023-02-11 12:25:37.182437
+merch_00566,Nair-Golla Fuel,Fuel,5541,IN,low,1772.66,2024-11-08 06:30:52.182437
+merch_00567,Mohan-Mall Insurance,Insurance,6300,IN,low,1898.74,2024-04-25 10:59:42.182437
+merch_00568,Sahota LLC Utilities,Utilities,4900,IN,low,894.98,2026-01-21 16:54:20.182437
+merch_00569,Brahmbhatt-Mane Jewelry,Jewelry,5944,IN,medium,1335.04,2023-02-21 00:35:04.182437
+merch_00570,Oak-Gera Groceries,Groceries,5411,IN,low,1521.99,2025-01-29 06:47:33.182437
+merch_00571,Srivastava Inc Digital Goods,Digital Goods,5815,IN,low,292.95,2026-03-13 14:42:37.182437
+merch_00572,Gour-Khosla Utilities,Utilities,4900,IN,low,868.15,2024-07-11 00:13:51.182437
+merch_00573,Cherian-Mannan Fuel,Fuel,5541,IN,low,1400.01,2025-02-14 10:14:38.182437
+merch_00574,Bajwa Inc Crypto/Forex,Crypto/Forex,6051,IN,high,1757.71,2023-07-09 12:02:05.182437
+merch_00575,Chaudhuri-Pai Gambling/Gaming,Gambling/Gaming,7995,IN,medium,3497.73,2024-06-02 14:41:42.182437
+merch_00576,Modi-Mangal Groceries,Groceries,5411,IN,low,1655.64,2024-09-07 23:05:49.182437
+merch_00577,"Keer, Johal and De Education",Education,8220,IN,low,442.27,2022-11-02 12:21:19.182437
+merch_00578,"Nadig, Choudhury and Viswanathan Crypto/Forex",Crypto/Forex,6051,IN,medium,653.74,2022-10-12 09:17:25.182437
+merch_00579,Wali and Sons Fuel,Fuel,5541,IN,low,2532.37,2024-12-09 21:19:25.182437
+merch_00580,Bala Group Restaurants,Restaurants,5812,IN,low,4362.94,2024-04-03 04:25:33.182437
+merch_00581,Mallick-Baria Restaurants,Restaurants,5812,IN,low,543.86,2023-09-30 19:05:16.182437
+merch_00582,Chad PLC Fuel,Fuel,5541,IN,low,843.81,2025-05-25 14:16:57.182437
+merch_00583,"Issac, Prasad and Varma Jewelry",Jewelry,5944,IN,low,4492.57,2024-02-21 00:19:58.182437
+merch_00584,"Maharaj, Dugal and Balasubramanian Utilities",Utilities,4900,IN,low,3795.94,2024-01-19 23:14:53.182437
+merch_00585,"Murty, Kala and Malhotra Entertainment",Entertainment,7832,IN,low,2022.01,2025-08-29 20:31:18.182437
+merch_00586,Padmanabhan-Kibe Travel,Travel,4722,IN,low,857.3,2024-12-24 01:26:19.182437
+merch_00587,Sanghvi LLC Fuel,Fuel,5541,IN,low,521.99,2023-09-17 07:51:31.182437
+merch_00588,Gour Group Fuel,Fuel,5541,IN,low,804.87,2023-09-05 16:18:06.182437
+merch_00589,Karan-Suri Restaurants,Restaurants,5812,IN,low,991.42,2025-02-13 10:22:53.182437
+merch_00590,Bali-Mani Gambling/Gaming,Gambling/Gaming,7995,IN,high,1028.97,2025-11-24 01:32:14.182437
+merch_00591,Kannan PLC Jewelry,Jewelry,5944,IN,low,288.73,2023-05-04 02:29:14.182437
+merch_00592,"Rattan, Kaur and D’Alia Utilities",Utilities,4900,IN,low,618.17,2024-05-12 10:01:46.182437
+merch_00593,Gour-Cheema Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1431.69,2024-08-25 23:11:47.182437
+merch_00594,Vig Ltd Insurance,Insurance,6300,IN,low,832.06,2025-12-18 10:35:03.182437
+merch_00595,"Bahri, Lall and Bassi Crypto/Forex",Crypto/Forex,6051,IN,high,427.74,2025-01-15 00:05:03.182437
+merch_00596,"Sahota, Varma and Kurian Electronics",Electronics,5732,IN,low,561.75,2022-12-11 02:52:59.182437
+merch_00597,Karpe-Sibal Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1122.29,2026-02-14 20:40:52.182437
+merch_00598,Sarin-Vyas Fashion,Fashion,5651,IN,low,348.33,2024-06-20 11:24:58.182437
+merch_00599,Vig-Nigam Utilities,Utilities,4900,IN,low,3151.85,2024-12-28 03:08:40.182437
+merch_00600,Mann and Sons Entertainment,Entertainment,7832,IN,low,370.6,2025-03-26 05:02:56.182437
+merch_00601,Bir and Sons Education,Education,8220,IN,low,2136.08,2023-07-18 21:42:06.182437
+merch_00602,Natt-Tailor Electronics,Electronics,5732,IN,low,4315.39,2026-02-15 11:43:04.182437
+merch_00603,Sankaran and Sons Education,Education,8220,IN,low,412.2,2025-12-17 19:20:15.182437
+merch_00604,"Singh, Ray and Hari Restaurants",Restaurants,5812,IN,low,501.59,2022-09-08 19:05:47.182437
+merch_00605,"Barad, Bal and Bahri Travel",Travel,4722,IN,low,1137.01,2026-01-05 22:51:28.182437
+merch_00606,"Gara, Chokshi and De Jewelry",Jewelry,5944,IN,low,910.0,2023-05-01 13:38:22.182437
+merch_00607,Wagle Group Insurance,Insurance,6300,IN,low,2586.88,2026-03-04 11:45:38.182437
+merch_00608,Rau PLC Entertainment,Entertainment,7832,IN,low,1076.54,2023-06-03 11:15:28.182437
+merch_00609,Agarwal-Anne Entertainment,Entertainment,7832,IN,low,608.05,2025-11-12 23:31:58.182437
+merch_00610,Gara and Sons Utilities,Utilities,4900,IN,low,2232.78,2024-06-27 17:42:58.182437
+merch_00611,"Viswanathan, Shukla and Tiwari Digital Goods",Digital Goods,5815,IN,low,994.76,2025-05-31 09:10:02.182437
+merch_00612,Randhawa Inc Restaurants,Restaurants,5812,IN,low,594.06,2023-09-29 23:03:41.182437
+merch_00613,"Chawla, Gola and Raj Fuel",Fuel,5541,IN,low,685.81,2022-12-15 22:19:49.182437
+merch_00614,"Gill, Handa and Kamdar Gambling/Gaming",Gambling/Gaming,7995,IN,medium,397.56,2025-10-20 05:12:12.182437
+merch_00615,Andra-Khatri Crypto/Forex,Crypto/Forex,6051,IN,medium,147.76,2024-01-08 18:17:46.182437
+merch_00616,Kuruvilla Ltd Travel,Travel,4722,IN,low,436.71,2026-05-19 16:42:03.182437
+merch_00617,"Kashyap, Zachariah and Lal Jewelry",Jewelry,5944,IN,low,1097.29,2023-12-08 12:30:16.182437
+merch_00618,Bains-Dixit Utilities,Utilities,4900,IN,low,975.8,2023-02-11 04:40:53.182437
+merch_00619,Agarwal Group Restaurants,Restaurants,5812,IN,low,316.14,2022-09-05 14:58:08.182437
+merch_00620,"Contractor, Mammen and Kaul Pharmacy",Pharmacy,5912,IN,low,618.71,2024-12-22 09:46:34.182437
+merch_00621,"Rana, Virk and Kakar Entertainment",Entertainment,7832,IN,low,2023.74,2026-02-20 18:22:27.182437
+merch_00622,Patel Inc Restaurants,Restaurants,5812,IN,low,1905.48,2022-09-10 15:36:42.182437
+merch_00623,Sura-Pant Jewelry,Jewelry,5944,IN,medium,1367.63,2024-08-31 20:00:20.182437
+merch_00624,Dash-Rajan Travel,Travel,4722,IN,low,478.73,2026-06-06 02:45:43.182437
+merch_00625,Dhingra and Sons Crypto/Forex,Crypto/Forex,6051,IN,high,2569.63,2025-05-18 06:29:07.182437
+merch_00626,"Mammen, Rajan and D’Alia Entertainment",Entertainment,7832,IN,low,1142.98,2025-11-30 23:06:54.182437
+merch_00627,Sathe PLC Education,Education,8220,IN,low,681.22,2023-08-12 08:38:07.182437
+merch_00628,Pillai-Puri Jewelry,Jewelry,5944,IN,medium,496.44,2026-04-02 19:37:56.182437
+merch_00629,Trivedi-Chaudry Travel,Travel,4722,IN,low,2160.52,2024-09-19 06:52:54.182437
+merch_00630,"Bassi, Dave and Sule Pharmacy",Pharmacy,5912,IN,low,41.17,2024-09-05 19:50:56.182437
+merch_00631,"Naidu, Rajagopalan and Tailor Entertainment",Entertainment,7832,IN,low,1602.33,2024-08-06 22:42:21.182437
+merch_00632,Nayak LLC Insurance,Insurance,6300,IN,low,871.54,2025-11-02 00:31:44.182437
+merch_00633,"Mistry, Shankar and Kannan Pharmacy",Pharmacy,5912,IN,low,2808.71,2023-02-25 21:18:43.182437
+merch_00634,"Gokhale, Kapoor and Atwal Groceries",Groceries,5411,IN,low,5310.55,2026-05-25 23:01:18.182437
+merch_00635,"Guha, Pandit and Karpe Pharmacy",Pharmacy,5912,IN,low,686.04,2024-10-16 10:40:29.182437
+merch_00636,Parikh PLC Fashion,Fashion,5651,IN,low,2595.92,2023-04-04 13:36:04.182437
+merch_00637,Swaminathan-Kakar Fuel,Fuel,5541,IN,low,1660.23,2023-03-17 00:33:42.182437
+merch_00638,Chaudhary-Sehgal Crypto/Forex,Crypto/Forex,6051,IN,high,1531.52,2025-06-08 08:12:44.182437
+merch_00639,Kale Group Jewelry,Jewelry,5944,IN,medium,323.19,2023-07-03 23:51:50.182437
+merch_00640,Dutta-Bhatt Electronics,Electronics,5732,IN,low,813.4,2025-12-23 19:25:59.182437
+merch_00641,Kumer Group Digital Goods,Digital Goods,5815,IN,low,2522.56,2024-07-17 07:01:34.182437
+merch_00642,"Vala, Mannan and Nagarajan Insurance",Insurance,6300,IN,low,3051.72,2023-01-05 14:37:51.182437
+merch_00643,Ranganathan Inc Travel,Travel,4722,IN,low,3737.99,2022-12-21 10:43:15.182437
+merch_00644,Majumdar-Raval Electronics,Electronics,5732,IN,low,816.86,2026-03-06 21:29:37.182437
+merch_00645,"Khalsa, Lal and Lanka Travel",Travel,4722,IN,low,1864.15,2025-09-15 12:53:25.182437
+merch_00646,Dugar-Joshi Education,Education,8220,IN,low,847.8,2023-11-05 15:22:23.182437
+merch_00647,Comar and Sons Travel,Travel,4722,IN,low,1439.55,2023-06-26 07:02:16.182437
+merch_00648,Kumar LLC Fashion,Fashion,5651,IN,low,1844.11,2025-07-13 13:07:48.182437
+merch_00649,Gokhale-Rao Fashion,Fashion,5651,IN,low,876.26,2024-09-27 04:15:45.182437
+merch_00650,Comar-Pal Restaurants,Restaurants,5812,IN,low,1954.03,2026-06-09 21:59:19.182437
+merch_00651,Suresh-Uppal Gambling/Gaming,Gambling/Gaming,7995,IN,high,1095.17,2024-02-22 14:24:27.182437
+merch_00652,Oommen-Shah Crypto/Forex,Crypto/Forex,6051,IN,high,1234.76,2026-04-09 06:32:53.182437
+merch_00653,Bawa PLC Education,Education,8220,IN,low,328.35,2025-08-08 08:10:02.182437
+merch_00654,"Muni, Baral and Apte Gambling/Gaming",Gambling/Gaming,7995,IN,high,777.96,2024-08-28 08:06:29.182437
+merch_00655,Karpe Inc Groceries,Groceries,5411,IN,low,790.09,2025-11-18 07:50:26.182437
+merch_00656,Mani-Dugar Digital Goods,Digital Goods,5815,IN,medium,5623.82,2025-12-29 04:49:19.182437
+merch_00657,"Bahl, Datta and Lanka Crypto/Forex",Crypto/Forex,6051,IN,high,644.33,2023-03-04 15:42:42.182437
+merch_00658,Madan-Wason Gambling/Gaming,Gambling/Gaming,7995,IN,high,1216.24,2025-05-05 19:47:08.182437
+merch_00659,Vala-Bala Entertainment,Entertainment,7832,IN,low,656.36,2023-02-14 01:19:20.182437
+merch_00660,Dixit and Sons Utilities,Utilities,4900,IN,low,1097.56,2024-03-18 09:39:24.182437
+merch_00661,Gour-Ghosh Crypto/Forex,Crypto/Forex,6051,IN,high,1419.44,2024-02-24 06:14:05.182437
+merch_00662,"Morar, Bail and Comar Pharmacy",Pharmacy,5912,IN,low,542.57,2024-05-10 05:08:00.182437
+merch_00663,Sen Group Utilities,Utilities,4900,IN,low,2403.86,2025-12-07 09:26:50.182437
+merch_00664,Bahri-Gola Entertainment,Entertainment,7832,IN,low,568.32,2024-05-22 13:51:17.182437
+merch_00665,"Gokhale, Dutta and Gopal Fashion",Fashion,5651,IN,low,282.5,2022-10-31 23:21:08.182437
+merch_00666,"Kapadia, Deshmukh and Shanker Digital Goods",Digital Goods,5815,IN,medium,1330.19,2025-07-23 01:30:53.182437
+merch_00667,Dara LLC Utilities,Utilities,4900,IN,low,4432.42,2024-11-20 18:56:57.182437
+merch_00668,"Kamdar, Chatterjee and Walia Education",Education,8220,IN,low,196.37,2023-08-29 02:06:41.182437
+merch_00669,Vora LLC Restaurants,Restaurants,5812,IN,low,376.99,2023-11-19 11:42:40.182437
+merch_00670,Kar LLC Pharmacy,Pharmacy,5912,IN,low,2271.33,2023-10-16 23:58:41.182437
+merch_00671,"Gala, Handa and Dave Electronics",Electronics,5732,IN,low,641.93,2022-09-25 21:24:17.182437
+merch_00672,Sachdev-Golla Digital Goods,Digital Goods,5815,IN,medium,1485.39,2023-04-23 09:51:44.182437
+merch_00673,"Dhingra, Chaudhari and Oommen Travel",Travel,4722,IN,low,2694.78,2026-03-01 23:40:13.182437
+merch_00674,Sundaram PLC Education,Education,8220,IN,low,2165.74,2023-11-10 03:09:08.182437
+merch_00675,"Parmer, Basak and Magar Travel",Travel,4722,IN,low,1409.95,2025-07-12 12:05:43.182437
+merch_00676,"Shenoy, Nair and Grover Utilities",Utilities,4900,IN,low,1429.65,2025-07-24 10:40:17.182437
+merch_00677,"Swaminathan, Garg and Raghavan Crypto/Forex",Crypto/Forex,6051,IN,medium,1407.05,2025-12-23 23:06:28.182437
+merch_00678,Koshy-Aggarwal Entertainment,Entertainment,7832,IN,low,1598.57,2025-04-25 07:59:06.182437
+merch_00679,Mannan-Shere Restaurants,Restaurants,5812,IN,low,3160.29,2025-08-12 17:13:48.182437
+merch_00680,"Thaker, Pillay and Loke Travel",Travel,4722,IN,low,460.68,2023-03-15 08:00:55.182437
+merch_00681,Soman PLC Education,Education,8220,IN,low,399.59,2023-01-13 20:12:11.182437
+merch_00682,"Walla, Ganesh and Panchal Digital Goods",Digital Goods,5815,IN,low,1956.56,2023-10-05 03:04:51.182437
+merch_00683,"Balan, Lata and Salvi Restaurants",Restaurants,5812,IN,low,725.69,2025-04-24 17:57:54.182437
+merch_00684,"Vaidya, Mall and Pingle Crypto/Forex",Crypto/Forex,6051,IN,medium,3627.69,2022-10-01 18:32:58.182437
+merch_00685,"Bansal, Dani and Sharma Fuel",Fuel,5541,IN,low,1529.51,2025-08-10 17:34:43.182437
+merch_00686,Morar and Sons Fashion,Fashion,5651,IN,low,3919.72,2024-09-10 16:21:18.182437
+merch_00687,Khanna and Sons Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2132.92,2022-11-15 12:56:57.182437
+merch_00688,Rege PLC Pharmacy,Pharmacy,5912,IN,low,1016.07,2023-02-22 21:08:02.182437
+merch_00689,Garde-Rastogi Fuel,Fuel,5541,IN,low,1300.11,2024-10-03 08:43:13.182437
+merch_00690,"Bhatt, Ben and Wali Pharmacy",Pharmacy,5912,IN,low,2562.2,2025-05-20 19:18:01.182437
+merch_00691,Bala and Sons Digital Goods,Digital Goods,5815,IN,low,298.23,2024-01-22 11:02:52.182437
+merch_00692,"Shan, Swaminathan and Date Electronics",Electronics,5732,IN,low,2671.16,2025-10-30 10:07:24.182437
+merch_00693,Gade PLC Crypto/Forex,Crypto/Forex,6051,IN,medium,1233.1,2022-12-15 07:48:22.182437
+merch_00694,"Din, Salvi and Randhawa Utilities",Utilities,4900,IN,low,1088.98,2025-09-03 21:41:15.182437
+merch_00695,Kota PLC Education,Education,8220,IN,low,5161.02,2023-04-21 22:33:07.182437
+merch_00696,Ramachandran-Buch Utilities,Utilities,4900,IN,low,3181.31,2022-09-12 14:33:42.182437
+merch_00697,Rajagopal-Dhillon Electronics,Electronics,5732,IN,low,620.91,2024-10-20 13:43:23.182437
+merch_00698,Barad-Kalita Electronics,Electronics,5732,IN,low,1629.35,2023-03-26 18:38:48.182437
+merch_00699,Agarwal Group Utilities,Utilities,4900,IN,low,542.68,2024-02-22 08:49:35.182437
+merch_00700,"Narang, Walla and Ganguly Jewelry",Jewelry,5944,IN,low,1848.91,2023-07-20 07:54:19.182437
+merch_00701,Nori LLC Gambling/Gaming,Gambling/Gaming,7995,IN,medium,4544.41,2024-08-26 21:37:57.182437
+merch_00702,Chander-Choudhry Insurance,Insurance,6300,IN,low,3603.9,2024-02-03 03:04:55.182437
+merch_00703,Kakar-Dubey Digital Goods,Digital Goods,5815,IN,low,1792.36,2025-01-09 22:49:25.182437
+merch_00704,Yogi-Doctor Insurance,Insurance,6300,IN,low,1646.28,2026-04-17 05:35:59.182437
+merch_00705,"Gole, Rajan and Dhar Restaurants",Restaurants,5812,IN,low,1159.72,2023-08-07 12:56:19.182437
+merch_00706,Kalita-Natt Fuel,Fuel,5541,IN,low,4763.71,2023-11-21 17:46:58.182437
+merch_00707,Lata-Oommen Jewelry,Jewelry,5944,IN,low,2387.22,2023-07-17 08:21:47.182437
+merch_00708,Palan Ltd Fuel,Fuel,5541,IN,low,916.67,2024-10-02 01:12:37.182437
+merch_00709,Kaur-Saini Insurance,Insurance,6300,IN,low,1422.22,2023-01-15 10:03:27.182437
+merch_00710,Bansal and Sons Digital Goods,Digital Goods,5815,IN,low,1476.47,2023-11-13 10:54:14.182437
+merch_00711,"Kashyap, Doshi and Rajagopal Digital Goods",Digital Goods,5815,IN,low,654.89,2025-01-31 10:23:52.182437
+merch_00712,Jaggi-Parmer Groceries,Groceries,5411,IN,low,1483.25,2026-02-20 19:01:58.182437
+merch_00713,"Dani, Dhar and Sodhi Fashion",Fashion,5651,IN,low,1955.2,2024-04-17 21:51:49.182437
+merch_00714,Balakrishnan-Datta Restaurants,Restaurants,5812,IN,low,564.2,2026-06-22 00:44:21.182437
+merch_00715,Mohan-Dara Crypto/Forex,Crypto/Forex,6051,IN,high,2747.75,2024-06-01 14:15:08.182437
+merch_00716,"Natarajan, Sodhi and Gade Gambling/Gaming",Gambling/Gaming,7995,IN,medium,756.56,2023-11-13 08:47:02.182437
+merch_00717,Jhaveri and Sons Gambling/Gaming,Gambling/Gaming,7995,IN,high,926.89,2026-02-11 15:28:22.182437
+merch_00718,"Uppal, Dani and Varghese Travel",Travel,4722,IN,low,737.89,2022-10-04 09:43:36.182437
+merch_00719,Buch Group Insurance,Insurance,6300,IN,low,620.83,2023-07-18 08:41:16.182437
+merch_00720,Seshadri Ltd Groceries,Groceries,5411,IN,low,3081.88,2024-10-06 11:47:08.182437
+merch_00721,Toor-Chandra Crypto/Forex,Crypto/Forex,6051,IN,medium,3460.23,2025-06-15 23:53:03.182437
+merch_00722,Samra and Sons Utilities,Utilities,4900,IN,low,814.94,2024-06-17 07:22:02.182437
+merch_00723,Rana PLC Fuel,Fuel,5541,IN,low,2851.34,2023-04-13 22:56:35.182437
+merch_00724,Mohan-Ben Pharmacy,Pharmacy,5912,IN,low,332.97,2024-11-12 03:22:40.182437
+merch_00725,Baria and Sons Travel,Travel,4722,IN,low,1044.53,2023-12-24 21:58:33.182437
+merch_00726,"Gulati, Rajagopal and Sankar Utilities",Utilities,4900,IN,low,437.02,2024-12-13 15:24:37.182437
+merch_00727,Gupta-Puri Fuel,Fuel,5541,IN,low,5021.25,2023-10-13 16:01:13.182437
+merch_00728,Raman-Shukla Education,Education,8220,IN,low,3149.55,2026-06-10 17:30:29.182437
+merch_00729,"Khare, Kakar and Sarin Digital Goods",Digital Goods,5815,IN,medium,255.47,2025-09-22 04:19:12.182437
+merch_00730,"Chawla, Grover and Ahluwalia Entertainment",Entertainment,7832,IN,low,659.05,2025-07-05 06:35:41.182437
+merch_00731,Lal LLC Travel,Travel,4722,IN,low,1068.99,2023-11-23 09:53:39.182437
+merch_00732,"Sagar, Gupta and Kashyap Electronics",Electronics,5732,IN,low,1254.64,2022-10-29 23:05:59.182437
+merch_00733,Kalita-Dani Pharmacy,Pharmacy,5912,IN,low,401.33,2022-10-22 04:07:30.182437
+merch_00734,Barad-Lanka Crypto/Forex,Crypto/Forex,6051,IN,high,2237.51,2025-07-13 19:18:15.182437
+merch_00735,Ghose Ltd Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2844.84,2024-12-25 02:29:36.182437
+merch_00736,"Dash, Soni and Comar Utilities",Utilities,4900,IN,low,1699.98,2025-06-26 08:36:08.182437
+merch_00737,"Saraf, Kaur and Uppal Electronics",Electronics,5732,IN,low,1612.46,2023-01-10 22:00:27.182437
+merch_00738,"Sampath, Madan and Khanna Fashion",Fashion,5651,IN,low,740.41,2025-06-30 04:38:54.182437
+merch_00739,Saini Group Crypto/Forex,Crypto/Forex,6051,IN,medium,1024.16,2022-09-25 21:30:09.182437
+merch_00740,Patil PLC Fuel,Fuel,5541,IN,low,1552.91,2023-01-10 09:10:25.182437
+merch_00741,Vohra-Sawhney Digital Goods,Digital Goods,5815,IN,low,1679.0,2025-12-01 05:14:44.182437
+merch_00742,Bhagat-Chand Fuel,Fuel,5541,IN,low,1324.5,2023-11-07 10:04:22.182437
+merch_00743,Zacharia LLC Restaurants,Restaurants,5812,IN,low,2669.45,2026-03-01 15:31:20.182437
+merch_00744,"Deo, Sehgal and Chakraborty Travel",Travel,4722,IN,low,1941.19,2024-10-07 12:05:50.182437
+merch_00745,"Munshi, Das and Mander Insurance",Insurance,6300,IN,low,2873.38,2023-02-23 16:40:04.182437
+merch_00746,Mahal-Anand Utilities,Utilities,4900,IN,low,1443.4,2025-06-07 03:28:27.182437
+merch_00747,Chacko and Sons Restaurants,Restaurants,5812,IN,low,1436.38,2025-10-06 04:56:33.182437
+merch_00748,Goda Group Electronics,Electronics,5732,IN,low,2498.9,2026-05-26 09:46:42.182437
+merch_00749,Bhat-Sinha Gambling/Gaming,Gambling/Gaming,7995,IN,high,565.16,2023-07-03 13:43:13.182437
+merch_00750,Roy PLC Restaurants,Restaurants,5812,IN,low,7011.75,2024-01-09 06:42:47.182437
+merch_00751,Nazareth LLC Insurance,Insurance,6300,IN,low,737.95,2024-06-13 11:07:42.182437
+merch_00752,Chauhan Inc Education,Education,8220,IN,low,670.52,2025-06-12 23:22:08.182437
+merch_00753,"Kant, Sodhi and Khanna Insurance",Insurance,6300,IN,low,2761.43,2023-08-01 23:13:10.182437
+merch_00754,"Date, Munshi and Lalla Utilities",Utilities,4900,IN,low,2035.18,2025-03-16 03:28:12.182437
+merch_00755,"Suri, Modi and Shenoy Crypto/Forex",Crypto/Forex,6051,IN,high,2260.21,2026-06-22 19:57:10.182437
+merch_00756,Wagle-Sarraf Restaurants,Restaurants,5812,IN,low,1470.94,2026-02-10 21:13:20.182437
+merch_00757,Palan PLC Electronics,Electronics,5732,IN,low,592.36,2023-01-15 15:39:45.182437
+merch_00758,Subramanian LLC Insurance,Insurance,6300,IN,low,4009.93,2022-11-28 04:33:47.182437
+merch_00759,Ganguly-Shanker Electronics,Electronics,5732,IN,low,2681.04,2025-09-24 22:35:48.182437
+merch_00760,Sidhu Group Electronics,Electronics,5732,IN,low,824.01,2025-03-02 06:10:14.182437
+merch_00761,"Guha, Deep and Sastry Electronics",Electronics,5732,IN,low,2518.88,2024-11-24 09:00:16.182437
+merch_00762,Mody-Lad Education,Education,8220,IN,low,883.81,2025-03-11 08:29:19.182437
+merch_00763,Sangha Inc Digital Goods,Digital Goods,5815,IN,low,992.17,2025-01-04 21:14:07.182437
+merch_00764,Bajaj LLC Entertainment,Entertainment,7832,IN,low,1057.15,2024-11-16 04:04:08.182437
+merch_00765,Sura-Raman Groceries,Groceries,5411,IN,low,763.13,2025-10-02 07:11:15.182437
+merch_00766,Tailor-Kakar Electronics,Electronics,5732,IN,low,1450.14,2026-02-07 08:10:14.182437
+merch_00767,Bandi-Dass Fashion,Fashion,5651,IN,low,2696.12,2026-04-16 19:03:24.182437
+merch_00768,Chadha Inc Education,Education,8220,IN,low,1885.96,2024-12-02 17:15:18.182437
+merch_00769,Minhas-Gara Electronics,Electronics,5732,IN,low,2246.4,2023-05-26 06:25:47.182437
+merch_00770,Shere-Wason Jewelry,Jewelry,5944,IN,medium,1643.22,2023-08-23 01:09:57.182437
+merch_00771,Chaudhuri-Din Fuel,Fuel,5541,IN,low,180.95,2025-08-19 15:36:48.182437
+merch_00772,Keer and Sons Fashion,Fashion,5651,IN,low,5737.34,2022-12-07 21:49:28.182437
+merch_00773,Biswas-Raj Fuel,Fuel,5541,IN,low,3028.2,2024-12-21 10:54:29.182437
+merch_00774,Kunda and Sons Insurance,Insurance,6300,IN,low,1707.05,2025-03-19 00:57:51.182437
+merch_00775,"Sankaran, Grewal and Pandey Pharmacy",Pharmacy,5912,IN,low,525.44,2023-06-04 22:20:32.182437
+merch_00776,Upadhyay-Prashad Digital Goods,Digital Goods,5815,IN,medium,2184.38,2025-04-21 10:34:28.182437
+merch_00777,"Manda, Padmanabhan and Raja Crypto/Forex",Crypto/Forex,6051,IN,medium,1365.28,2023-10-11 13:24:29.182437
+merch_00778,Venkataraman Ltd Crypto/Forex,Crypto/Forex,6051,IN,medium,1579.04,2024-07-18 16:26:12.182437
+merch_00779,Banerjee-Kalita Utilities,Utilities,4900,IN,low,2655.87,2024-06-19 12:07:10.182437
+merch_00780,Bala-Barman Groceries,Groceries,5411,IN,low,1823.3,2023-09-10 09:07:18.182437
+merch_00781,Thaker Inc Pharmacy,Pharmacy,5912,IN,low,3443.17,2024-06-08 07:11:07.182437
+merch_00782,Varma Ltd Utilities,Utilities,4900,IN,low,959.03,2023-05-21 10:59:04.182437
+merch_00783,"Solanki, Biswas and Swamy Jewelry",Jewelry,5944,IN,medium,314.81,2022-10-07 04:20:36.182437
+merch_00784,Behl-Kapoor Jewelry,Jewelry,5944,IN,medium,1320.06,2023-01-04 16:22:55.182437
+merch_00785,Varma LLC Travel,Travel,4722,IN,low,983.27,2023-03-30 17:54:24.182437
+merch_00786,Pandit-Kapur Gambling/Gaming,Gambling/Gaming,7995,IN,high,1979.24,2024-11-14 10:00:07.182437
+merch_00787,Rege-Om Groceries,Groceries,5411,IN,low,669.23,2024-02-22 14:05:08.182437
+merch_00788,"Bava, Iyer and Kanda Education",Education,8220,IN,low,959.92,2026-05-04 19:52:34.182437
+merch_00789,"Karan, Bawa and Khosla Pharmacy",Pharmacy,5912,IN,low,2035.91,2025-02-03 10:52:57.182437
+merch_00790,Sethi and Sons Fashion,Fashion,5651,IN,low,1128.02,2025-12-23 03:39:50.182437
+merch_00791,"Dubey, Mody and Savant Entertainment",Entertainment,7832,IN,low,2798.95,2026-06-18 17:48:36.182437
+merch_00792,Majumdar-Choudhary Crypto/Forex,Crypto/Forex,6051,IN,high,681.2,2025-12-06 12:30:22.182437
+merch_00793,"Ramanathan, Bhatia and Minhas Entertainment",Entertainment,7832,IN,low,490.98,2026-04-06 05:23:44.182437
+merch_00794,Nanda Group Electronics,Electronics,5732,IN,low,2204.5,2026-05-15 01:51:51.182437
+merch_00795,Chakraborty and Sons Fuel,Fuel,5541,IN,low,418.36,2025-09-17 20:03:35.182437
+merch_00796,Sule Ltd Restaurants,Restaurants,5812,IN,low,220.73,2022-12-22 04:07:25.182437
+merch_00797,"Gade, Koshy and Bhatnagar Education",Education,8220,IN,low,482.9,2026-05-01 15:20:21.182437
+merch_00798,D’Alia-Sura Groceries,Groceries,5411,IN,low,2948.52,2022-10-25 04:56:48.182437
+merch_00799,Prabhu-Gole Fuel,Fuel,5541,IN,low,843.88,2025-07-22 11:19:05.182437
+merch_00800,Raghavan-Dass Jewelry,Jewelry,5944,IN,medium,1004.71,2025-07-12 07:35:00.182437
+merch_00801,Dhillon Inc Pharmacy,Pharmacy,5912,IN,low,2320.33,2025-10-24 22:09:04.182437
+merch_00802,Parekh-Wason Restaurants,Restaurants,5812,IN,low,2658.61,2022-09-11 18:11:29.182437
+merch_00803,Kashyap-Comar Education,Education,8220,IN,low,2360.37,2025-04-07 19:48:24.182437
+merch_00804,"Bajaj, Pradhan and Varma Utilities",Utilities,4900,IN,low,2200.04,2024-10-10 03:00:30.182437
+merch_00805,Manda Group Insurance,Insurance,6300,IN,low,796.95,2023-07-10 19:17:28.182437
+merch_00806,"Rajagopal, Dugar and Vyas Digital Goods",Digital Goods,5815,IN,low,1487.76,2024-10-20 10:41:46.182437
+merch_00807,"Guha, Sarna and Bhattacharyya Fashion",Fashion,5651,IN,low,414.28,2023-04-03 11:29:19.182437
+merch_00808,"Ray, Sampath and Chaudhry Groceries",Groceries,5411,IN,low,1052.04,2025-01-12 02:47:37.182437
+merch_00809,Gupta-Banerjee Digital Goods,Digital Goods,5815,IN,medium,274.32,2025-11-02 04:16:42.182437
+merch_00810,Cherian-Sachdev Fashion,Fashion,5651,IN,low,2801.24,2023-04-04 03:14:47.182437
+merch_00811,Pau LLC Gambling/Gaming,Gambling/Gaming,7995,IN,high,1005.41,2023-08-26 08:56:03.182437
+merch_00812,Bath-Mann Entertainment,Entertainment,7832,IN,low,1453.66,2024-05-24 20:44:37.182437
+merch_00813,Amble-Bahl Crypto/Forex,Crypto/Forex,6051,IN,high,892.79,2025-05-31 19:58:22.182437
+merch_00814,Chand-Palla Electronics,Electronics,5732,IN,low,3045.27,2025-11-18 10:42:19.182437
+merch_00815,Khalsa and Sons Crypto/Forex,Crypto/Forex,6051,IN,medium,383.83,2026-02-11 14:46:50.182437
+merch_00816,Saini Group Entertainment,Entertainment,7832,IN,low,525.67,2024-06-23 07:12:38.182437
+merch_00817,Rout-Agate Entertainment,Entertainment,7832,IN,low,1430.02,2025-08-05 18:15:41.182437
+merch_00818,Vala-Date Education,Education,8220,IN,low,1487.52,2023-01-29 10:53:56.182437
+merch_00819,Deshmukh LLC Jewelry,Jewelry,5944,IN,low,2822.11,2024-05-09 05:33:10.182437
+merch_00820,"Bajaj, Bhattacharyya and Mohan Education",Education,8220,IN,low,1657.77,2026-06-24 15:57:00.182437
+merch_00821,Soman-Pandya Travel,Travel,4722,IN,low,1478.28,2025-06-17 05:47:54.182437
+merch_00822,Vaidya-Gade Jewelry,Jewelry,5944,IN,low,733.72,2023-08-01 11:02:56.182437
+merch_00823,Wason and Sons Utilities,Utilities,4900,IN,low,3057.21,2023-08-31 15:57:23.182437
+merch_00824,Seth-Bhat Utilities,Utilities,4900,IN,low,1187.58,2024-12-22 23:53:08.182437
+merch_00825,Narain-Choudhury Jewelry,Jewelry,5944,IN,medium,775.47,2025-06-30 13:10:07.182437
+merch_00826,"Bhatt, Swaminathan and Mishra Fuel",Fuel,5541,IN,low,684.59,2022-10-06 22:27:44.182437
+merch_00827,Deshmukh Ltd Groceries,Groceries,5411,IN,low,1463.62,2025-10-04 18:30:53.182437
+merch_00828,Kamdar Ltd Gambling/Gaming,Gambling/Gaming,7995,IN,medium,363.66,2025-12-17 03:16:10.182437
+merch_00829,Mahajan Group Pharmacy,Pharmacy,5912,IN,low,391.93,2025-05-19 18:42:50.182437
+merch_00830,Lad Ltd Travel,Travel,4722,IN,low,391.09,2024-08-13 04:11:53.182437
+merch_00831,Acharya-Sundaram Insurance,Insurance,6300,IN,low,4213.58,2024-05-14 11:55:41.182437
+merch_00832,"Atwal, Dara and Babu Travel",Travel,4722,IN,low,3545.54,2025-03-06 14:15:01.182437
+merch_00833,Vig PLC Travel,Travel,4722,IN,low,632.58,2023-06-11 17:04:39.182437
+merch_00834,Varghese-Mutti Utilities,Utilities,4900,IN,low,1688.16,2024-07-01 05:53:48.182437
+merch_00835,Bal-Puri Utilities,Utilities,4900,IN,low,2254.94,2024-07-19 06:17:42.182437
+merch_00836,Sarna-Batra Jewelry,Jewelry,5944,IN,medium,1856.38,2024-11-06 14:19:02.182437
+merch_00837,"Ram, Vaidya and Sunder Electronics",Electronics,5732,IN,low,480.72,2025-01-31 00:45:49.182437
+merch_00838,"Pal, Kala and Choudhary Crypto/Forex",Crypto/Forex,6051,IN,high,716.66,2024-07-24 23:58:53.182437
+merch_00839,Shukla LLC Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1667.74,2024-05-04 15:23:02.182437
+merch_00840,Devan Ltd Education,Education,8220,IN,low,378.84,2024-01-16 10:04:46.182437
+merch_00841,"Madan, Sama and Sengupta Travel",Travel,4722,IN,low,2918.97,2023-06-16 15:51:18.182437
+merch_00842,Dar Ltd Jewelry,Jewelry,5944,IN,medium,467.71,2025-03-22 06:52:29.182437
+merch_00843,"Mander, Lall and Mitter Gambling/Gaming",Gambling/Gaming,7995,IN,high,1538.98,2024-12-12 03:58:41.182437
+merch_00844,Din-Oak Digital Goods,Digital Goods,5815,IN,low,2492.05,2023-11-25 11:41:30.182437
+merch_00845,Dugar-Edwin Digital Goods,Digital Goods,5815,IN,low,2702.06,2026-02-05 14:27:35.182437
+merch_00846,"Dua, Subramaniam and Buch Fuel",Fuel,5541,IN,low,2729.8,2025-01-24 09:21:55.182437
+merch_00847,"Lal, Munshi and Bajwa Jewelry",Jewelry,5944,IN,low,744.19,2024-01-14 05:40:02.182437
+merch_00848,"Devan, Ben and Bajwa Fuel",Fuel,5541,IN,low,821.63,2025-04-22 18:14:26.182437
+merch_00849,Puri-Dugar Entertainment,Entertainment,7832,IN,low,1776.32,2024-09-13 20:05:41.182437
+merch_00850,"Tella, Narayan and Sabharwal Entertainment",Entertainment,7832,IN,low,2200.75,2023-04-23 08:10:35.182437
+merch_00851,"Saran, Saraf and Dugal Utilities",Utilities,4900,IN,low,2129.45,2024-01-13 01:58:28.182437
+merch_00852,"Roy, Venkatesh and Mane Digital Goods",Digital Goods,5815,IN,medium,2311.93,2024-04-11 08:27:25.182437
+merch_00853,Parmer Ltd Fashion,Fashion,5651,IN,low,1945.72,2022-10-07 11:59:10.182437
+merch_00854,Mahal Inc Jewelry,Jewelry,5944,IN,medium,1701.31,2025-01-11 02:20:30.182437
+merch_00855,"Kumer, Kuruvilla and Dutt Fuel",Fuel,5541,IN,low,799.57,2025-10-25 11:57:13.182437
+merch_00856,Hayre Ltd Jewelry,Jewelry,5944,IN,low,1737.45,2022-10-14 07:36:33.182437
+merch_00857,Deep Ltd Insurance,Insurance,6300,IN,low,3908.75,2022-12-20 07:00:01.182437
+merch_00858,"Murthy, Rajagopalan and Sur Insurance",Insurance,6300,IN,low,1081.41,2025-09-06 14:40:57.182437
+merch_00859,Lalla-Krish Insurance,Insurance,6300,IN,low,1000.53,2023-11-24 16:06:50.182437
+merch_00860,"Chakrabarti, Nath and Kara Groceries",Groceries,5411,IN,low,2072.67,2025-12-12 21:28:56.182437
+merch_00861,Date Ltd Entertainment,Entertainment,7832,IN,low,467.28,2023-02-15 15:30:01.182437
+merch_00862,Apte-Bora Insurance,Insurance,6300,IN,low,1525.76,2025-12-24 13:10:05.182437
+merch_00863,"Kota, Kapur and Krishnamurthy Utilities",Utilities,4900,IN,low,2835.99,2024-01-23 20:55:00.182437
+merch_00864,Johal and Sons Entertainment,Entertainment,7832,IN,low,1535.62,2025-01-02 09:16:25.182437
+merch_00865,Wali-Borra Digital Goods,Digital Goods,5815,IN,low,1528.72,2022-12-16 10:57:21.182437
+merch_00866,Maharaj LLC Education,Education,8220,IN,low,162.58,2023-04-02 19:20:37.182437
+merch_00867,Lalla-Gokhale Digital Goods,Digital Goods,5815,IN,medium,1101.88,2026-05-01 08:11:03.182437
+merch_00868,Rajagopalan-Kanda Fuel,Fuel,5541,IN,low,589.4,2026-05-08 05:21:32.182437
+merch_00869,"Mahal, Ravi and Jhaveri Utilities",Utilities,4900,IN,low,434.38,2024-02-25 21:27:04.182437
+merch_00870,"Hora, Prashad and Prabhu Pharmacy",Pharmacy,5912,IN,low,1260.05,2023-01-20 22:33:01.182437
+merch_00871,Tailor Inc Jewelry,Jewelry,5944,IN,low,2197.45,2023-01-01 11:15:29.182437
+merch_00872,"Chatterjee, Bassi and Raju Gambling/Gaming",Gambling/Gaming,7995,IN,medium,1188.66,2023-12-21 19:06:33.182437
+merch_00873,Ahuja-Bakshi Jewelry,Jewelry,5944,IN,low,2542.77,2022-11-24 21:09:11.182437
+merch_00874,Khanna Ltd Education,Education,8220,IN,low,2170.63,2025-06-06 19:29:30.182437
+merch_00875,Nagarajan LLC Fuel,Fuel,5541,IN,low,840.04,2025-12-13 22:07:51.182437
+merch_00876,Dhar Inc Electronics,Electronics,5732,IN,low,937.19,2022-09-05 12:54:15.182437
+merch_00877,Mand-Kata Crypto/Forex,Crypto/Forex,6051,IN,high,224.04,2023-10-10 14:13:26.182437
+merch_00878,Sem-Bava Fashion,Fashion,5651,IN,low,4810.31,2025-03-10 01:48:44.182437
+merch_00879,Gera-Jain Crypto/Forex,Crypto/Forex,6051,IN,high,630.81,2024-11-18 23:37:12.182437
+merch_00880,Rajagopalan Ltd Entertainment,Entertainment,7832,IN,low,1569.32,2025-01-17 12:29:05.182437
+merch_00881,Kalla-Narasimhan Education,Education,8220,IN,low,1232.68,2026-06-10 18:19:54.182437
+merch_00882,Goswami-Thaman Entertainment,Entertainment,7832,IN,low,3770.66,2024-02-23 19:33:47.182437
+merch_00883,Hayre Group Gambling/Gaming,Gambling/Gaming,7995,IN,high,1730.0,2022-11-15 02:32:01.182437
+merch_00884,Sen Ltd Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1362.83,2022-09-24 15:23:20.182437
+merch_00885,Khosla Group Pharmacy,Pharmacy,5912,IN,low,3199.45,2023-04-06 06:08:24.182437
+merch_00886,Bir-Cherian Digital Goods,Digital Goods,5815,IN,low,1569.38,2023-03-09 14:19:58.182437
+merch_00887,"Kanda, Anand and Saraf Groceries",Groceries,5411,IN,low,686.99,2025-10-08 11:07:26.182437
+merch_00888,"Sachdev, Bhatti and Rau Insurance",Insurance,6300,IN,low,1995.94,2023-04-19 15:52:29.182437
+merch_00889,"Saran, Dave and Hegde Fuel",Fuel,5541,IN,low,415.43,2025-05-10 01:19:00.182437
+merch_00890,Gara PLC Electronics,Electronics,5732,IN,low,602.52,2022-12-06 21:10:36.182437
+merch_00891,Vasa and Sons Gambling/Gaming,Gambling/Gaming,7995,IN,high,974.35,2026-03-19 20:09:51.182437
+merch_00892,Naidu-Vala Gambling/Gaming,Gambling/Gaming,7995,IN,medium,489.65,2023-10-31 07:49:42.182437
+merch_00893,Chandran Group Travel,Travel,4722,IN,low,1064.63,2025-02-02 17:48:37.182437
+merch_00894,"Padmanabhan, Bedi and Butala Pharmacy",Pharmacy,5912,IN,low,92.81,2022-10-04 10:10:24.182437
+merch_00895,Kamdar-Chauhan Utilities,Utilities,4900,IN,low,1540.36,2025-06-22 11:16:36.182437
+merch_00896,"Ratta, Kara and Nigam Gambling/Gaming",Gambling/Gaming,7995,IN,high,1917.68,2023-04-18 14:07:35.182437
+merch_00897,"Majumdar, Kurian and De Travel",Travel,4722,IN,low,870.8,2023-05-08 11:56:40.182437
+merch_00898,Kale Group Restaurants,Restaurants,5812,IN,low,285.99,2026-04-12 17:09:31.182437
+merch_00899,Tiwari-Kapur Restaurants,Restaurants,5812,IN,low,1335.08,2024-05-24 16:21:37.182437
+merch_00900,Kapur Group Digital Goods,Digital Goods,5815,IN,low,2166.7,2023-03-02 17:21:29.182437
+merch_00901,Viswanathan-Pal Gambling/Gaming,Gambling/Gaming,7995,IN,high,379.93,2024-04-17 23:16:33.182437
+merch_00902,Tata Group Travel,Travel,4722,IN,low,6978.48,2026-06-06 18:57:31.182437
+merch_00903,Bawa Ltd Electronics,Electronics,5732,IN,low,1577.59,2022-09-19 22:47:11.182437
+merch_00904,"Chand, Pandit and Vyas Pharmacy",Pharmacy,5912,IN,low,2239.04,2024-10-12 02:44:09.182437
+merch_00905,"Subramanian, Mutti and Chahal Gambling/Gaming",Gambling/Gaming,7995,IN,medium,5898.84,2023-03-29 04:28:45.182437
+merch_00906,"Munshi, Kaul and Varughese Pharmacy",Pharmacy,5912,IN,low,1829.55,2023-10-10 06:21:22.182437
+merch_00907,Chana-Agrawal Pharmacy,Pharmacy,5912,IN,low,667.12,2023-05-25 03:14:50.182437
+merch_00908,Golla Group Insurance,Insurance,6300,IN,low,795.01,2024-04-18 16:09:44.182437
+merch_00909,Batta PLC Gambling/Gaming,Gambling/Gaming,7995,IN,high,2738.53,2023-04-02 12:32:50.182437
+merch_00910,Gandhi Inc Fashion,Fashion,5651,IN,low,2425.4,2025-08-23 21:20:49.182437
+merch_00911,Majumdar Ltd Pharmacy,Pharmacy,5912,IN,low,2772.44,2025-02-06 18:38:09.182437
+merch_00912,"Sama, Bora and Mand Entertainment",Entertainment,7832,IN,low,2081.23,2024-03-16 09:45:56.182437
+merch_00913,Rana-Nair Restaurants,Restaurants,5812,IN,low,1872.48,2024-08-28 05:13:03.182437
+merch_00914,Dhawan Inc Pharmacy,Pharmacy,5912,IN,low,2291.99,2025-10-14 04:43:15.182437
+merch_00915,Murthy-Seth Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1795.26,2022-10-07 09:56:18.182437
+merch_00916,"Sathe, Bhatt and Khosla Crypto/Forex",Crypto/Forex,6051,IN,high,542.88,2024-10-06 10:24:17.182437
+merch_00917,"Venkataraman, Chaudhuri and Sarin Insurance",Insurance,6300,IN,low,797.91,2025-12-26 09:23:28.182437
+merch_00918,Ram Inc Crypto/Forex,Crypto/Forex,6051,IN,medium,2519.64,2025-05-23 01:46:44.182437
+merch_00919,Baria-Badami Pharmacy,Pharmacy,5912,IN,low,5970.69,2023-11-03 04:53:27.182437
+merch_00920,"Menon, Om and Char Fashion",Fashion,5651,IN,low,2850.3,2024-04-28 04:50:15.182437
+merch_00921,Patel-Sule Gambling/Gaming,Gambling/Gaming,7995,IN,high,4000.17,2024-03-22 14:50:32.182437
+merch_00922,Master-Bhasin Insurance,Insurance,6300,IN,low,350.33,2024-05-24 13:50:29.182437
+merch_00923,"Lata, Mall and Badami Gambling/Gaming",Gambling/Gaming,7995,IN,high,2975.34,2024-10-08 07:52:38.182437
+merch_00924,Balasubramanian-Parekh Fashion,Fashion,5651,IN,low,2362.02,2022-11-14 23:11:11.182437
+merch_00925,Ramachandran-Choudhary Crypto/Forex,Crypto/Forex,6051,IN,medium,1715.72,2024-10-03 12:38:13.182437
+merch_00926,Dara-Dash Pharmacy,Pharmacy,5912,IN,low,933.19,2023-07-19 07:26:15.182437
+merch_00927,Sehgal Inc Fuel,Fuel,5541,IN,low,1927.15,2025-05-29 04:40:56.182437
+merch_00928,Raman PLC Fashion,Fashion,5651,IN,low,2610.87,2023-09-27 00:26:20.182437
+merch_00929,Magar and Sons Fuel,Fuel,5541,IN,low,1426.7,2023-08-04 18:18:19.182437
+merch_00930,"Sangha, Kashyap and Narain Fashion",Fashion,5651,IN,low,761.2,2024-01-24 20:57:39.182437
+merch_00931,"Kota, Chadha and Bal Crypto/Forex",Crypto/Forex,6051,IN,medium,3595.93,2024-04-12 08:08:33.182437
+merch_00932,Dhar Inc Gambling/Gaming,Gambling/Gaming,7995,IN,high,1115.64,2024-12-29 13:26:50.182437
+merch_00933,Ramaswamy-Mannan Jewelry,Jewelry,5944,IN,medium,1760.37,2024-06-10 09:28:35.182437
+merch_00934,"Chahal, Dave and Konda Fuel",Fuel,5541,IN,low,185.38,2026-05-18 11:16:11.182437
+merch_00935,Tara Inc Jewelry,Jewelry,5944,IN,low,704.26,2025-11-03 00:29:46.182437
+merch_00936,Sur and Sons Education,Education,8220,IN,low,3019.04,2023-10-19 13:37:58.182437
+merch_00937,"Sankaran, Suresh and Singhal Jewelry",Jewelry,5944,IN,low,2860.92,2023-12-03 15:02:19.182437
+merch_00938,Brahmbhatt Ltd Jewelry,Jewelry,5944,IN,medium,1913.15,2023-08-19 22:35:52.182437
+merch_00939,Sahota-Dara Gambling/Gaming,Gambling/Gaming,7995,IN,high,222.42,2024-02-29 09:31:04.182437
+merch_00940,"Kibe, Mangal and Radhakrishnan Gambling/Gaming",Gambling/Gaming,7995,IN,high,792.5,2024-06-26 03:01:03.182437
+merch_00941,Hari Ltd Gambling/Gaming,Gambling/Gaming,7995,IN,medium,4719.74,2024-06-06 18:09:15.182437
+merch_00942,Aggarwal Ltd Education,Education,8220,IN,low,1453.34,2024-10-05 23:25:01.182437
+merch_00943,"Din, Nagi and Borra Restaurants",Restaurants,5812,IN,low,2539.01,2024-07-04 05:31:25.182437
+merch_00944,Gade-Ahuja Utilities,Utilities,4900,IN,low,769.91,2026-03-10 22:03:29.182437
+merch_00945,Sant-Sheth Fashion,Fashion,5651,IN,low,1407.16,2024-11-10 19:13:20.182437
+merch_00946,Lata-Chawla Fuel,Fuel,5541,IN,low,778.52,2023-09-07 02:40:54.182437
+merch_00947,Butala and Sons Travel,Travel,4722,IN,low,1033.4,2022-10-14 06:34:33.182437
+merch_00948,"Mutti, Thakkar and Raman Education",Education,8220,IN,low,668.43,2025-06-24 16:30:30.182437
+merch_00949,Zacharia-Mittal Pharmacy,Pharmacy,5912,IN,low,1190.59,2024-08-14 11:15:07.182437
+merch_00950,"Dass, Jain and Kade Entertainment",Entertainment,7832,IN,low,1237.46,2024-03-18 15:23:55.182437
+merch_00951,"Butala, Morar and Oza Jewelry",Jewelry,5944,IN,low,2328.0,2024-10-26 17:51:13.182437
+merch_00952,Bhat-Purohit Insurance,Insurance,6300,IN,low,277.46,2025-04-01 17:28:02.182437
+merch_00953,"Bhat, Mishra and Narayanan Fashion",Fashion,5651,IN,low,452.78,2023-09-12 08:09:39.182437
+merch_00954,Sha-Balay Travel,Travel,4722,IN,low,1422.0,2025-12-12 18:58:46.182437
+merch_00955,"Kurian, Mangal and Bhagat Insurance",Insurance,6300,IN,low,508.0,2025-06-05 04:34:17.182437
+merch_00956,"Sharma, Saraf and Vig Utilities",Utilities,4900,IN,low,564.44,2025-12-10 04:07:09.182437
+merch_00957,Badami Ltd Pharmacy,Pharmacy,5912,IN,low,3931.56,2025-04-03 11:49:42.182437
+merch_00958,Prasad Group Jewelry,Jewelry,5944,IN,low,2222.69,2026-03-09 18:06:33.182437
+merch_00959,"Banik, Hayer and Dewan Gambling/Gaming",Gambling/Gaming,7995,IN,medium,1194.59,2023-09-12 13:49:21.182437
+merch_00960,Hegde-Sekhon Education,Education,8220,IN,low,739.01,2025-10-04 21:53:17.182437
+merch_00961,Bhatt-Barman Utilities,Utilities,4900,IN,low,4137.89,2025-03-14 06:22:07.182437
+merch_00962,Gokhale Inc Crypto/Forex,Crypto/Forex,6051,IN,medium,374.6,2024-12-08 17:49:02.182437
+merch_00963,"Golla, Suresh and Shroff Electronics",Electronics,5732,IN,low,2749.4,2024-03-04 20:02:52.182437
+merch_00964,"Iyer, Chaudhari and Kumar Electronics",Electronics,5732,IN,low,4310.54,2025-11-27 06:52:33.182437
+merch_00965,"Ganesh, Sharma and Batta Crypto/Forex",Crypto/Forex,6051,IN,high,1429.89,2024-01-07 12:10:27.182437
+merch_00966,Jhaveri-Andra Pharmacy,Pharmacy,5912,IN,low,1838.12,2022-11-30 07:18:15.182437
+merch_00967,Om-Mannan Fuel,Fuel,5541,IN,low,1917.73,2025-09-22 09:02:44.182437
+merch_00968,"Borah, Dara and Magar Electronics",Electronics,5732,IN,low,2305.22,2025-03-12 10:17:26.182437
+merch_00969,"Hegde, Bhat and Nagarajan Travel",Travel,4722,IN,low,1674.05,2024-12-03 05:04:48.182437
+merch_00970,"Chanda, Chacko and Reddy Fashion",Fashion,5651,IN,low,1810.96,2024-05-13 12:37:23.182437
+merch_00971,"Babu, Swamy and Sengupta Entertainment",Entertainment,7832,IN,low,719.46,2023-05-13 08:47:21.182437
+merch_00972,"Chopra, Parmer and Mukherjee Crypto/Forex",Crypto/Forex,6051,IN,high,211.98,2022-11-17 04:45:32.182437
+merch_00973,Purohit-Karnik Entertainment,Entertainment,7832,IN,low,2628.27,2023-07-01 21:41:19.182437
+merch_00974,Varghese Ltd Fashion,Fashion,5651,IN,low,471.4,2023-05-24 06:54:01.182437
+merch_00975,"Seth, Mand and Banik Insurance",Insurance,6300,IN,low,3735.75,2025-11-19 12:26:13.182437
+merch_00976,"Sangha, Savant and Gulati Digital Goods",Digital Goods,5815,IN,medium,1252.76,2025-01-26 18:55:45.182437
+merch_00977,Kothari Group Electronics,Electronics,5732,IN,low,5030.79,2025-08-16 10:09:54.182437
+merch_00978,Varghese Ltd Entertainment,Entertainment,7832,IN,low,1797.75,2024-07-23 21:31:22.182437
+merch_00979,Subramaniam-Chander Restaurants,Restaurants,5812,IN,low,980.29,2025-10-19 16:13:01.182437
+merch_00980,"Gupta, Pandey and Mannan Entertainment",Entertainment,7832,IN,low,2189.93,2023-04-07 03:51:39.182437
+merch_00981,Barad Inc Education,Education,8220,IN,low,4634.86,2025-03-03 17:52:19.182437
+merch_00982,Kibe-Memon Fuel,Fuel,5541,IN,low,1502.98,2023-10-22 15:11:44.182437
+merch_00983,Suri-Uppal Gambling/Gaming,Gambling/Gaming,7995,IN,high,1447.77,2024-02-17 06:11:12.182437
+merch_00984,Bumb PLC Gambling/Gaming,Gambling/Gaming,7995,IN,high,1354.76,2025-07-29 20:12:12.182437
+merch_00985,Ganesan-Goda Electronics,Electronics,5732,IN,low,965.17,2023-09-09 05:04:15.182437
+merch_00986,Gill-Wadhwa Jewelry,Jewelry,5944,IN,medium,1685.23,2022-12-06 07:17:58.182437
+merch_00987,"Konda, Hora and Karpe Utilities",Utilities,4900,IN,low,1874.35,2023-03-31 16:20:47.182437
+merch_00988,Datta LLC Fuel,Fuel,5541,IN,low,4972.58,2025-01-14 06:48:17.182437
+merch_00989,Singh PLC Fuel,Fuel,5541,IN,low,981.26,2023-02-16 13:03:31.182437
+merch_00990,Mani and Sons Fuel,Fuel,5541,IN,low,4066.98,2022-10-28 11:49:30.182437
+merch_00991,D’Alia-Dhillon Gambling/Gaming,Gambling/Gaming,7995,IN,medium,1958.2,2025-08-16 19:49:09.182437
+merch_00992,Master-Chaudry Gambling/Gaming,Gambling/Gaming,7995,IN,medium,2204.71,2024-02-14 08:43:55.182437
+merch_00993,"Mall, Ramaswamy and Balan Electronics",Electronics,5732,IN,low,866.71,2025-06-16 19:47:27.182437
+merch_00994,Morar Group Travel,Travel,4722,IN,low,1268.58,2025-01-19 07:19:00.182437
+merch_00995,Handa-Bose Groceries,Groceries,5411,IN,low,1087.95,2023-12-26 21:28:18.182437
+merch_00996,Kibe-Taneja Restaurants,Restaurants,5812,IN,low,2359.65,2024-02-14 05:47:12.182437
+merch_00997,"Pai, Oza and Bera Restaurants",Restaurants,5812,IN,low,616.73,2026-06-04 02:56:18.182437
+merch_00998,"Uppal, Apte and Chada Groceries",Groceries,5411,IN,low,586.64,2023-04-03 02:34:42.182437
+merch_00999,Mukherjee Inc Insurance,Insurance,6300,IN,low,159.05,2024-08-19 13:14:34.182437

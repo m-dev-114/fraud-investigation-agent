@@ -1,0 +1,160 @@
+{
+  "logistic_regression": {
+    "model_name": "logistic_regression",
+    "trained_at": "2026-08-28T18:17:21.256167",
+    "n_train": 80000,
+    "n_test": 20000,
+    "precision": 0.9599056603773585,
+    "recall": 0.9846774193548387,
+    "f1": 0.9721337579617835,
+    "roc_auc": 0.9990589105165417,
+    "pr_auc": 0.9951011116247517,
+    "confusion_matrix": {
+      "true_negative": 18709,
+      "false_positive": 51,
+      "false_negative": 19,
+      "true_positive": 1221
+    },
+    "feature_importance": [
+      {
+        "feature": "amount",
+        "importance": 10.999225373768688
+      },
+      {
+        "feature": "distance_from_home_km",
+        "importance": 9.45807862689304
+      },
+      {
+        "feature": "velocity_txn_count_1h",
+        "importance": 4.17456212477346
+      },
+      {
+        "feature": "is_foreign_txn",
+        "importance": -2.544271598327648
+      },
+      {
+        "feature": "velocity_amount_sum_1h",
+        "importance": 2.2670013610471056
+      },
+      {
+        "feature": "recent_failed_txn_count_1h",
+        "importance": 1.5802461847060136
+      },
+      {
+        "feature": "amount_log",
+        "importance": -0.953252226204306
+      },
+      {
+        "feature": "channel_card",
+        "importance": 0.790546740168237
+      },
+      {
+        "feature": "shared_device_customer_count",
+        "importance": 0.6659476728478146
+      },
+      {
+        "feature": "shared_ip_customer_count",
+        "importance": 0.6560734440007492
+      },
+      {
+        "feature": "is_new_device",
+        "importance": 0.6353270515553914
+      },
+      {
+        "feature": "channel_upi",
+        "importance": -0.48272649736114687
+      },
+      {
+        "feature": "customer_high_risk",
+        "importance": -0.3244560832152103
+      },
+      {
+        "feature": "implied_speed_kmh",
+        "importance": -0.3034676944981304
+      },
+      {
+        "feature": "merchant_risk_medium",
+        "importance": -0.2904007151592991
+      }
+    ]
+  },
+  "xgboost": {
+    "model_name": "xgboost",
+    "trained_at": "2026-08-28T18:17:23.488336",
+    "n_train": 80000,
+    "n_test": 20000,
+    "precision": 0.990204081632653,
+    "recall": 0.978225806451613,
+    "f1": 0.9841784989858012,
+    "roc_auc": 0.9991025431597771,
+    "pr_auc": 0.9957181172183577,
+    "confusion_matrix": {
+      "true_negative": 18748,
+      "false_positive": 12,
+      "false_negative": 27,
+      "true_positive": 1213
+    },
+    "feature_importance": [
+      {
+        "feature": "velocity_txn_count_1h",
+        "importance": 0.6562120914459229
+      },
+      {
+        "feature": "distance_from_home_km",
+        "importance": 0.14420831203460693
+      },
+      {
+        "feature": "amount",
+        "importance": 0.05302104726433754
+      },
+      {
+        "feature": "amount_log",
+        "importance": 0.04936050623655319
+      },
+      {
+        "feature": "minutes_since_prev_txn",
+        "importance": 0.019562125205993652
+      },
+      {
+        "feature": "velocity_amount_sum_1h",
+        "importance": 0.014746559783816338
+      },
+      {
+        "feature": "distance_from_prev_txn_km",
+        "importance": 0.011627630330622196
+      },
+      {
+        "feature": "channel_card",
+        "importance": 0.008436711505055428
+      },
+      {
+        "feature": "shared_ip_customer_count",
+        "importance": 0.007556198630481958
+      },
+      {
+        "feature": "channel_netbanking",
+        "importance": 0.006875216495245695
+      },
+      {
+        "feature": "shared_device_customer_count",
+        "importance": 0.00519709475338459
+      },
+      {
+        "feature": "is_new_device",
+        "importance": 0.0034619872458279133
+      },
+      {
+        "feature": "implied_speed_kmh",
+        "importance": 0.0031941740307956934
+      },
+      {
+        "feature": "channel_upi",
+        "importance": 0.0023268454242497683
+      },
+      {
+        "feature": "amount_zscore_vs_customer",
+        "importance": 0.002272751647979021
+      }
+    ]
+  }
+}
