@@ -17,7 +17,7 @@ from app import models as m  # noqa: E402
 from app.services import investigation_service  # noqa: E402
 from app.ml import predict as ml_predict  # noqa: E402
 
-SAMPLE_SIZE = 300  # extra random transactions to investigate, beyond the demo cases
+SAMPLE_SIZE = 20  # extra random transactions to investigate, beyond the demo cases
 
 
 def main():
@@ -55,10 +55,9 @@ def main():
         for i, txn_id in enumerate(ids_to_run, 1):
             try:
                 investigation_service.run_investigation(db, txn_id, force_rerun=False)
+                print(f"  {i}/{len(ids_to_run)} done: {txn_id}")
             except Exception as e:
-                print(f"  failed on {txn_id}: {e}")
-            if i % 25 == 0:
-                print(f"  {i}/{len(ids_to_run)} done")
+                print(f"  {i}/{len(ids_to_run)} FAILED on {txn_id}: {e}")
 
         print("\nDone. Dashboard should now show non-zero Flagged/Critical/Amount at Risk.")
     finally:
